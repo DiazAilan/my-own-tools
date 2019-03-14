@@ -1,0 +1,2117 @@
+[
+  {
+    "SURURSAL": "ABASTO SHOPPING",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "ABASTO SHOPPING",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "ABASTO SHOPPING",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "ABASTO SHOPPING",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "Acassuso",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "Acassuso",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "Acassuso",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "ADVENIO",
+    "CANAL": "Mayorista",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "ALTO AVELLANEDA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "ALTO AVELLANEDA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "ALTO AVELLANEDA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "ALTO AVELLANEDA",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "ALTO PALERMO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "ALTO PALERMO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "ALTO PALERMO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "ALTO PALERMO",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "ALTO ROSARIO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "ALTO ROSARIO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "ALTO ROSARIO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "ALTO ROSARIO",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "AR CCR AT1",
+    "CANAL": "CCR Atencion",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "AR CCR AT2",
+    "CANAL": "CCR Atencion",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "AR CCR AT3",
+    "CANAL": "CCR Atencion",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "AR CCR AT4",
+    "CANAL": "CCR Atencion",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "AR CCR AT5",
+    "CANAL": "CCR Atencion",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "AR CCR AT6",
+    "CANAL": "CCR Atencion",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "ASATEJ - TKTMAS",
+    "CANAL": "Mayorista",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "ATENCION AL CLIENTE",
+    "CANAL": "CCR Atencion",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "ATENCION AL CLIENTE",
+    "CANAL": "CCR Atencion",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "ATENCION AL CLIENTE",
+    "CANAL": "CCR Atencion",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "BARRIO NORTE",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "BARRIO NORTE",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "BARRIO NORTE",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "BARRIO NORTE",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "BAZAR DE VIAJES",
+    "CANAL": "Mayorista",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "BELGRANO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "BELGRANO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "BELGRANO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "BELGRANO",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "BR CCR",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "CABALLITO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "CABALLITO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "CABALLITO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "CABALLITO",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "CALL CENTER",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "CALL CENTER",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "CALL CENTER",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "Club Almundo",
+    "CANAL": "Club Almundo",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "CO: CCR COLOMBIA",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "CONTACTS CENTER VENTAS",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "CONTACTS CENTER VENTAS",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "CONTACTS CENTER VENTAS",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "CORPORATE",
+    "CANAL": "REWARDS",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "CORPORATE",
+    "CANAL": "REWARDS",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "CORPORATE AFINIDAD",
+    "CANAL": "REWARDS",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "DEVOTO SHOPPING",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "DEVOTO SHOPPING",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "DEVOTO SHOPPING",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "DEVOTO SHOPPING",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "DOT",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "DOT",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "DOT",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "DOT",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "Expertos Externos",
+    "CANAL": "Expertos Externos",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "Expertos Externos",
+    "CANAL": "Expertos Externos",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "Expertos Externos",
+    "CANAL": "Expertos Externos",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FLORIDA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FLORIDA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FLORIDA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FLORIDA",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA - JUNIN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA - JUNIN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA - JUNIN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA - LINDAVISTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA - LINDAVISTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA - LINDAVISTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA - NARVARTE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA - NARVARTE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA - NARVARTE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA - PICACHO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA - PICACHO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA - PICACHO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA - REFORMA LOMAS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA - REFORMA LOMAS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA - REFORMA LOMAS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA - TAXQUEÑA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA - TAXQUEÑA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA - TAXQUEÑA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA - TOLLOCAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA - TOLLOCAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA - TOLLOCAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA ADROGUE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA ADROGUE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA ADROGUE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA ADROGUE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA ALTA GRACIA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA ALTA GRACIA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA ALTA GRACIA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA BAHIA BLANCA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA BAHIA BLANCA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA BAHIA BLANCA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA BAHIA BLANCA",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA BANFIELD",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA BANFIELD",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA BANFIELD",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA BANFIELD",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA BARRIO JARDIN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA BARRIO JARDIN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA BARRIO JARDIN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA BARRIO JARDIN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA CAMPANA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA CAMPANA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA CAMPANA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA CAMPANA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA CASTELAR",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA CASTELAR",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA CASTELAR",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA CERRO LAS ROSAS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA CERRO LAS ROSAS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA CERRO LAS ROSAS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA CERRO LAS ROSAS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA CITY BELL",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA CITY BELL",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA CITY BELL",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA CITY BELL",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA ESCOBAR",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA ESCOBAR",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA ESCOBAR",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA ESCOBAR",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA FORMOSA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA FORMOSA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA FORMOSA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA FORMOSA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA FUNES",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA FUNES",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA FUNES",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA GENERAL PAZ",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA GENERAL PAZ",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA GENERAL PAZ",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA GENERAL PAZ",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA GODOY CRUZ",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA GODOY CRUZ",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA GODOY CRUZ",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA GODOY CRUZ",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA INGENIERO MASCHWITZ",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA INGENIERO MASCHWITZ",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA INGENIERO MASCHWITZ",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA INGENIERO MASCHWITZ",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA LA RIBERA SANTA FE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA LA RIBERA SANTA FE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA LA RIBERA SANTA FE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA LA RIBERA SANTA FE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA LA RIOJA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA LA RIOJA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA LA RIOJA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA LA RIOJA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA LANUS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA LANUS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA LANUS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA LANUS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA LOMAS DE SAN ISIDRO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA LOMAS DE SAN ISIDRO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA LOMAS DE SAN ISIDRO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA LOMAS DE SAN ISIDRO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA LUJAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA LUJAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA LUJAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA LUJAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA MADRYN",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA MADRYN",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA MADRYN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA MADRYN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA MATADEROS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA MATADEROS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA MATADEROS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA MONTE GRANDE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA MONTE GRANDE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA MONTE GRANDE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA MONTE GRANDE",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA NORDELTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA NORDELTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA NORDELTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA NORDELTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA PARANA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA PARANA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA PARANA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA PARANA",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA POSADAS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA POSADAS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA POSADAS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA POSADAS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA QUILMES",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA QUILMES",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA QUILMES",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA QUILMES",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA RAFAELA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA RAFAELA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA RAFAELA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA RAFAELA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA RAMOS MEJIA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA RAMOS MEJIA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA RAMOS MEJIA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA RAMOS MEJIA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA RESISTENCIA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA RESISTENCIA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA RESISTENCIA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA RESISTENCIA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA ROSARIO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA ROSARIO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA ROSARIO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA ROSARIO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA SALTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA SALTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA SALTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA SALTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA SAN FERNANDO",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA SAN FERNANDO",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA SAN FERNANDO",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA SAN FERNANDO",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA SAN JUAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA SAN JUAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA SAN JUAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA SAN JUAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA SAN LUIS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA SAN LUIS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA SAN LUIS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA SAN LUIS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA SAN MARTIN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA SAN MARTIN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA SAN MARTIN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA SAN MARTIN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA SANTA ROSA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA SANTA ROSA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA SANTA ROSA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA SANTA ROSA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA SANTIAGO DEL ESTERO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA SANTIAGO DEL ESTERO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA SANTIAGO DEL ESTERO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA SANTIAGO DEL ESTERO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA SANTO TOME",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA SANTO TOME",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA SANTO TOME",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA SANTO TOME",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA TUCUMAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA TUCUMAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA TUCUMAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA TUCUMAN",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA V.URQUIZA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA V.URQUIZA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA V.URQUIZA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA V.URQUIZA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA VENADO TUERTO",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA VENADO TUERTO",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA VENADO TUERTO",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA VENADO TUERTO",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA VILLA CRESPO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA VILLA CRESPO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA VILLA CRESPO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA VILLA CRESPO",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA VILLA MERCEDES SAN LUIS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA VILLA MERCEDES SAN LUIS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA VILLA MERCEDES SAN LUIS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA VILLA MERCEDES SAN LUIS",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA YERBA BUENA",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA YERBA BUENA",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA YERBA BUENA",
+    "CANAL": "FRANQUICIAS",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "FRA YERBA BUENA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "FRA-BELLAVISTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "FRA-BELLAVISTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "FRA-BELLAVISTA",
+    "CANAL": "Franquicias",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "Grupos",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "Grupos",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "Grupos",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "ICBC STORE",
+    "CANAL": "REWARDS",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "LA PLATA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "LA PLATA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "LA PLATA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "LA PLATA",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "LOMAS",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "LOMAS",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "LOMAS",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "LOMAS",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "MAR DEL PLATA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "MAR DEL PLATA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "MAR DEL PLATA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "MAR DEL PLATA",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "MARTINEZ",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "MARTINEZ",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "MARTINEZ",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "MARTINEZ",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "MENDOZA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "MENDOZA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "MENDOZA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "MENDOZA",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "MENDOZA SHOPPING",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "MENDOZA SHOPPING",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "MENDOZA SHOPPING",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "MENDOZA SHOPPING",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "Metabuscadores",
+    "CANAL": "Metabuscadores",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "Mobile",
+    "CANAL": "Mobile",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "MORON",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "MORON",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "MORON",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "MORON",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "Mujerverdadera",
+    "CANAL": "Mayorista",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "MX: CCR MEXICO",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "NEUQUEN ALTO COMAHUE",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "NEUQUEN ALTO COMAHUE",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "NEUQUEN ALTO COMAHUE",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "NEUQUEN ALTO COMAHUE",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "OUTBOUND",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "OUTBOUND",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "OUTBOUND",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "Outlet",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "Outlet",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "PASEO ALCORTA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "PASEO ALCORTA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "PASEO ALCORTA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "PASEO ALCORTA",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "PASEO DEL SIGLO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "PASEO DEL SIGLO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "PASEO DEL SIGLO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "PASEO DEL SIGLO",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "PATIO BULLRICH",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "PATIO BULLRICH",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "PATIO BULLRICH",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "PATIO BULLRICH",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "PATIO OLMOS -CORDOBA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "PATIO OLMOS -CORDOBA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "PATIO OLMOS -CORDOBA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "PATIO OLMOS -CORDOBA",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "PIEDRAS",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "PIEDRAS",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "PIEDRAS",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "PIEDRAS",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "PILAR",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "PILAR",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "PILAR",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "PILAR",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "PORTAL ROSARIO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "PORTAL ROSARIO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "PORTAL ROSARIO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "PORTAL ROSARIO",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "QUILMES",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "QUILMES",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "QUILMES",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "QUILMES",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "Referidos",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "Referidos",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "Referidos",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "RETAIL - LOMAS VERDES",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "RETAIL - LOMAS VERDES",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "RETAIL - LOMAS VERDES",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "RETAIL - MAGNOCENTRO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "RETAIL - MAGNOCENTRO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "RETAIL - MAGNOCENTRO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "RETAIL - RIO TIBER",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "RETAIL - RIO TIBER",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "RETAIL - RIO TIBER",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "REWARDS B2B",
+    "CANAL": "REWARDS",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "REWARDS B2C",
+    "CANAL": "REWARDS",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "RIBERA SANTA FE",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "RIBERA SANTA FE",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "RIBERA SANTA FE",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "SAN ISIDRO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "SAN ISIDRO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "SAN ISIDRO",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "SAN MIGUEL",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "SAN MIGUEL",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "SAN MIGUEL",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "SAN MIGUEL",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "Satelite",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "Satelite",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "Satelite",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "SOLAR SHOPPING",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "SOLAR SHOPPING",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "SOLAR SHOPPING",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "SOLAR SHOPPING",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "SUC Postventa",
+    "CANAL": "CCR Atencion",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "SUC Postventa",
+    "CANAL": "CCR Atencion",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "SUC Postventa",
+    "CANAL": "CCR Atencion",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "SUC TURNO AM",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "SUC TURNO AM",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "SUC TURNO AM",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "SUC TURNO AM1",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "SUC TURNO AM1",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "SUC TURNO AM1",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "SUC TURNO IT",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "SUC TURNO IT",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "SUC TURNO IT",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "SUC TURNO PM",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "SUC TURNO PM",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "SUC TURNO PM",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "SUC TURNO TA",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "SUC TURNO TA",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "SUC TURNO TA",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "SUC TURNO TB",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "SUC TURNO TB",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "SUC TURNO TB",
+    "CANAL": "CCR",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "Sucursal 93",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "Sucursal 93",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "Sucursal 93",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "TKTMAS",
+    "CANAL": "Mayorista",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "TORTUGUITAS",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "TORTUGUITAS",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "TORTUGUITAS",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "TORTUGUITAS",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "UNICENTER",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "UNICENTER",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "UNICENTER",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "UNICENTER",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "VENTAS INTERNAS VACACIONALES",
+    "CANAL": "INTERNO",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "VENTAS LABORALES",
+    "CANAL": "NO INCLUIR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "VILLA CABRERA - CORDOBA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "VILLA CABRERA - CORDOBA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "VILLA CABRERA - CORDOBA",
+    "CANAL": "Retail",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "VILLA CABRERA - CORDOBA",
+    "CANAL": "RETAIL",
+    "COUNTRY_CANALES": "Brasil"
+  },
+  {
+    "SURURSAL": "Web",
+    "CANAL": "Web",
+    "COUNTRY_CANALES": "Colombia"
+  },
+  {
+    "SURURSAL": "Web",
+    "CANAL": "Web",
+    "COUNTRY_CANALES": "Mexico"
+  },
+  {
+    "SURURSAL": "Web",
+    "CANAL": "Web",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "XML ASATEJ.COM",
+    "CANAL": "Web",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "#N/A",
+    "CANAL": "NO INCLUIR",
+    "COUNTRY_CANALES": "Argentina"
+  },
+  {
+    "SURURSAL": "#N/A",
+    "CANAL": "NO INCLUIR",
+    "COUNTRY_CANALES": "Mexico"
+  }
+ ]

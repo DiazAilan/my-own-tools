@@ -1,0 +1,4416 @@
+[
+  {
+    "id": "5b6076ff24aa9a000cfcb942",
+    "expertId": "187b48af-1a4b-4264-9f5f-aee0e2a6adc5",
+    "userId": "429b3f8b-e43d-430f-be7b-0c8e7b08081d",
+    "comment": "La atención sumamente satisfactoria,el conocimiento de lo ofrecido sumamente satisfactoria",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-06-11 13:38:32",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79f45224aa9a000e445184",
+      "userId": "187b48af-1a4b-4264-9f5f-aee0e2a6adc5",
+      "firstname": "Chloé",
+      "lastname": "Dorman",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a3400ff24aa9a000b908a86-878d5a74-2ae4-4213-9201-3c77a4b1bcba-2018-07-18T20:22:47.0058575959043088802088blob.png",
+      "images": {
+        "id": "5b4fa19724aa9a000baa658c",
+        "original_url": "https://images.almundo.com/ugc/production/5a3400ff24aa9a000b908a86-878d5a74-2ae4-4213-9201-3c77a4b1bcba-2018-07-18T20:22:47.0058575959043088802088blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a3400ff24aa9a000b908a86-878d5a74-2ae4-4213-9201-3c77a4b1bcba-2018-07-18T20:22:47.0058575959043088802088blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a3400ff24aa9a000b908a86-878d5a74-2ae4-4213-9201-3c77a4b1bcba-2018-07-18T20:22:47.0058575959043088802088blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a3400ff24aa9a000b908a86-878d5a74-2ae4-4213-9201-3c77a4b1bcba-2018-07-18T20:22:47.0058575959043088802088blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/chloe.dorman",
+      "image_id": "5b4fa19724aa9a000baa658c",
+      "nationality": null,
+      "city": {
+        "id": 1328857,
+        "name": "Pilar"
+      },
+      "skills": [
+        "BEACH",
+        "NEW",
+        "SINGLE",
+        "RELAXED",
+        "OCCUPATIONAL",
+        "MOUNTAIN",
+        "LIFE_STYLE",
+        "ADVENTURE",
+        "EXOTIC",
+        "PHOTOGRAPHY",
+        "FASHION",
+        "LUXURY",
+        "FESTIVALS",
+        "FAMILY",
+        "COUPLE",
+        "FLAVORS",
+        "ALLINCLUSIVE",
+        "WINTER",
+        "CULTURAL",
+        "SUMMER",
+        "CENTER_AMERICA",
+        "NORTH_AMERICA",
+        "SPIRITUAL",
+        "DISNEY",
+        "SPRING",
+        "SOUTH_AMERICA",
+        "EUROPE",
+        "NATURE",
+        "FRIENDS",
+        "CITY",
+        "SHOPPING",
+        "RIVIERA_MAYA",
+        "ART_LOVERS",
+        "ECONOMY",
+        "HISTORY"
+      ],
+      "tags": [
+        "Familiar",
+        "Pareja",
+        "Amigos",
+        "Solo",
+        "Europa",
+        "Norte América",
+        "Centro América",
+        "América del sur",
+        "Invierno",
+        "Verano",
+        "Primavera",
+        "Amantes del arte",
+        "Relajado",
+        "Espirituales",
+        "Playa",
+        "Montaña",
+        "Ciudad",
+        "Moda",
+        "Sabores",
+        "Estilo de vida",
+        "Fotografía",
+        "Naturaleza",
+        "Extraordinario",
+        "Historia",
+        "Compras",
+        "Laboral",
+        "Cultural",
+        "Aventura",
+        "Festivales",
+        "Disney",
+        "Riviera Maya",
+        "Lujo",
+        "Económico",
+        "Allinclusive",
+        "Nuevo"
+      ],
+      "known_cities": [
+        "Madrid",
+        "Pipa",
+        "Las Vegas",
+        "Orlando",
+        "Punta Cana",
+        "Miami",
+        "Nueva York",
+        "Playa del Carmen",
+        "Cancún"
+      ],
+      "rating": 4.781250000000001,
+      "connected": false
+    },
+    "user": {
+      "id": "5b1ea57224aa9a000b87b322",
+      "userId": "429b3f8b-e43d-430f-be7b-0c8e7b08081d",
+      "firstname": "JOSE MARIA",
+      "lastname": "ALMADA",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60780024aa9a000cfcc8c9",
+    "expertId": "190237",
+    "userId": "df5c898f-5fd5-49dc-8d82-a7a038ab1835",
+    "comment": "MUY BIEN ATENDIDO POR LA SEÑORITA FRANCINA LAMELZA, DE PRIMERA SU ATENCION  Y PREDISPUESTA A CUALQUIER PEDIDO NUESTRO, MUY RECOMENDABLE.",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-05-02 12:28:09",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79ea9724aa9a000df5ee6e",
+      "userId": "190237",
+      "firstname": "Francina",
+      "lastname": "Lamelza",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-019bc5cf-50b1-45b8-b3ca-14a312dbae6c-2018-02-07T19:53:34.0578859215999481534915ab89db72c9dfeee7cca8ba0294af0da7.png",
+      "images": {
+        "id": "5a7b593e24aa9a000c1c27d4",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-019bc5cf-50b1-45b8-b3ca-14a312dbae6c-2018-02-07T19:53:34.0578859215999481534915ab89db72c9dfeee7cca8ba0294af0da7.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-019bc5cf-50b1-45b8-b3ca-14a312dbae6c-2018-02-07T19:53:34.0578859215999481534915ab89db72c9dfeee7cca8ba0294af0da7.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-019bc5cf-50b1-45b8-b3ca-14a312dbae6c-2018-02-07T19:53:34.0578859215999481534915ab89db72c9dfeee7cca8ba0294af0da7.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-019bc5cf-50b1-45b8-b3ca-14a312dbae6c-2018-02-07T19:53:34.0578859215999481534915ab89db72c9dfeee7cca8ba0294af0da7.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/francina.lamelza",
+      "image_id": "5a7b593e24aa9a000c1c27d4",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": {
+        "id": 1308684,
+        "name": "Junin"
+      },
+      "skills": [
+        "BEACH",
+        "SINGLE",
+        "MOUNTAIN",
+        "ADVENTURE",
+        "FASHION",
+        "PHOTOGRAPHY",
+        "FAMILY",
+        "NATURE",
+        "FRIENDS",
+        "CITY",
+        "COUPLE",
+        "SHOPPING",
+        "HISTORY"
+      ],
+      "tags": [
+        "Familiar",
+        "Pareja",
+        "Amigos",
+        "Solo",
+        "Playa",
+        "Montaña",
+        "Ciudad",
+        "Moda",
+        "Fotografía",
+        "Naturaleza",
+        "Historia",
+        "Compras",
+        "Aventura"
+      ],
+      "known_cities": [
+        "Madrid",
+        "Pipa",
+        "Buzios",
+        "Amsterdam",
+        "Punta del Este",
+        "París",
+        "Barcelona",
+        "Budapest",
+        "Florianópolis",
+        "Brujas"
+      ],
+      "rating": 4.8125,
+      "connected": false
+    },
+    "user": {
+      "id": "5a78991a24aa9a000d93c2d2",
+      "userId": "df5c898f-5fd5-49dc-8d82-a7a038ab1835",
+      "firstname": "SAUL",
+      "lastname": "KRIMER",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b90142fbd1cdf54a4294d64",
+    "expertId": "190237",
+    "userId": "222780",
+    "comment": "Buena atención, rápido, buenas promociones con tajeta de banco comafi chicas en new york",
+    "recommendationScore": 9,
+    "creationDate": "2017-07-05 00:00:00",
+    "skillReviews": [],
+    "expert": {
+      "id": "5a79ea9724aa9a000df5ee6e",
+      "userId": "190237",
+      "firstname": "Francina",
+      "lastname": "Lamelza",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-019bc5cf-50b1-45b8-b3ca-14a312dbae6c-2018-02-07T19:53:34.0578859215999481534915ab89db72c9dfeee7cca8ba0294af0da7.png",
+      "images": {
+        "id": "5a7b593e24aa9a000c1c27d4",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-019bc5cf-50b1-45b8-b3ca-14a312dbae6c-2018-02-07T19:53:34.0578859215999481534915ab89db72c9dfeee7cca8ba0294af0da7.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-019bc5cf-50b1-45b8-b3ca-14a312dbae6c-2018-02-07T19:53:34.0578859215999481534915ab89db72c9dfeee7cca8ba0294af0da7.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-019bc5cf-50b1-45b8-b3ca-14a312dbae6c-2018-02-07T19:53:34.0578859215999481534915ab89db72c9dfeee7cca8ba0294af0da7.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-019bc5cf-50b1-45b8-b3ca-14a312dbae6c-2018-02-07T19:53:34.0578859215999481534915ab89db72c9dfeee7cca8ba0294af0da7.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/francina.lamelza",
+      "image_id": "5a7b593e24aa9a000c1c27d4",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": {
+        "id": 1308684,
+        "name": "Junin"
+      },
+      "skills": [
+        "BEACH",
+        "SINGLE",
+        "MOUNTAIN",
+        "ADVENTURE",
+        "FASHION",
+        "PHOTOGRAPHY",
+        "FAMILY",
+        "NATURE",
+        "FRIENDS",
+        "CITY",
+        "COUPLE",
+        "SHOPPING",
+        "HISTORY"
+      ],
+      "tags": [
+        "Familiar",
+        "Pareja",
+        "Amigos",
+        "Solo",
+        "Playa",
+        "Montaña",
+        "Ciudad",
+        "Moda",
+        "Fotografía",
+        "Naturaleza",
+        "Historia",
+        "Compras",
+        "Aventura"
+      ],
+      "known_cities": [
+        "Madrid",
+        "Pipa",
+        "Buzios",
+        "Amsterdam",
+        "Punta del Este",
+        "París",
+        "Barcelona",
+        "Budapest",
+        "Florianópolis",
+        "Brujas"
+      ],
+      "rating": 4.8125,
+      "connected": false
+    },
+    "user": {
+      "id": "5a787eff24aa9a000b43d030",
+      "userId": "222780",
+      "firstname": "Angela",
+      "lastname": "Spreafichi",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767d24aa9a000cfcb143",
+    "expertId": "217311",
+    "userId": "fe924410-bfa1-4860-a1fb-998a3ed42787",
+    "comment": "Soy Ana Yocca y el tramite fue rapido, claro y trato de ver todas las posibilidades que teniamos. EXCELENTE ATENCIÓN.",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-07-23 21:53:34",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79eb3824aa9a000df5ef99",
+      "userId": "217311",
+      "firstname": "Efrain",
+      "lastname": "Avila",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-4dbeb1d3-b140-4b6d-adaf-485bd072ff8f-2018-02-07T19:56:32.614810882078589111443831ac7e7fe03d7a2e53c2b936bca4f9e3.png",
+      "images": {
+        "id": "5a7b59f024aa9a000b41ee1e",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-4dbeb1d3-b140-4b6d-adaf-485bd072ff8f-2018-02-07T19:56:32.614810882078589111443831ac7e7fe03d7a2e53c2b936bca4f9e3.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-4dbeb1d3-b140-4b6d-adaf-485bd072ff8f-2018-02-07T19:56:32.614810882078589111443831ac7e7fe03d7a2e53c2b936bca4f9e3.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-4dbeb1d3-b140-4b6d-adaf-485bd072ff8f-2018-02-07T19:56:32.614810882078589111443831ac7e7fe03d7a2e53c2b936bca4f9e3.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-4dbeb1d3-b140-4b6d-adaf-485bd072ff8f-2018-02-07T19:56:32.614810882078589111443831ac7e7fe03d7a2e53c2b936bca4f9e3.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/efrain.avila",
+      "image_id": "5a7b59f024aa9a000b41ee1e",
+      "nationality": null,
+      "city": {
+        "id": 1338377,
+        "name": "Santiago del Estero"
+      },
+      "skills": [
+        "SPIRITUAL",
+        "BEACH",
+        "SINGLE",
+        "MOUNTAIN",
+        "PHOTOGRAPHY",
+        "HEALTHY",
+        "FAMILY",
+        "NATURE",
+        "FRIENDS",
+        "CITY",
+        "COUPLE",
+        "FLAVORS",
+        "HISTORY"
+      ],
+      "tags": [
+        "Familiar",
+        "Pareja",
+        "Amigos",
+        "Solo",
+        "Saludable",
+        "Espirituales",
+        "Playa",
+        "Montaña",
+        "Ciudad",
+        "Sabores",
+        "Fotografía",
+        "Naturaleza",
+        "Historia"
+      ],
+      "known_cities": [
+        "Orlando",
+        "Nueva York",
+        "Varadero",
+        "Roma",
+        "Natal",
+        "Madrid",
+        "Punta Cana",
+        "Riviera Maya",
+        "Río de Janeiro",
+        "Miami"
+      ],
+      "rating": 4.765625000000001,
+      "connected": false
+    },
+    "user": {
+      "id": "5b56787824aa9a000be2a0e0",
+      "userId": "fe924410-bfa1-4860-a1fb-998a3ed42787",
+      "firstname": "Silvia del Valle",
+      "lastname": "Nassif",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60778624aa9a000cfcbe2d",
+    "expertId": "217311",
+    "userId": "e0b14477-42bb-46aa-8196-41ceced12a3b",
+    "comment": "Me gusto mucho la atencion y predisposición y q no se apuro a pesar de tener otros clientes!",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-03-28 20:00:52",
+    "skillReviews": [
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79eb3824aa9a000df5ef99",
+      "userId": "217311",
+      "firstname": "Efrain",
+      "lastname": "Avila",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-4dbeb1d3-b140-4b6d-adaf-485bd072ff8f-2018-02-07T19:56:32.614810882078589111443831ac7e7fe03d7a2e53c2b936bca4f9e3.png",
+      "images": {
+        "id": "5a7b59f024aa9a000b41ee1e",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-4dbeb1d3-b140-4b6d-adaf-485bd072ff8f-2018-02-07T19:56:32.614810882078589111443831ac7e7fe03d7a2e53c2b936bca4f9e3.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-4dbeb1d3-b140-4b6d-adaf-485bd072ff8f-2018-02-07T19:56:32.614810882078589111443831ac7e7fe03d7a2e53c2b936bca4f9e3.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-4dbeb1d3-b140-4b6d-adaf-485bd072ff8f-2018-02-07T19:56:32.614810882078589111443831ac7e7fe03d7a2e53c2b936bca4f9e3.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-4dbeb1d3-b140-4b6d-adaf-485bd072ff8f-2018-02-07T19:56:32.614810882078589111443831ac7e7fe03d7a2e53c2b936bca4f9e3.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/efrain.avila",
+      "image_id": "5a7b59f024aa9a000b41ee1e",
+      "nationality": null,
+      "city": {
+        "id": 1338377,
+        "name": "Santiago del Estero"
+      },
+      "skills": [
+        "SPIRITUAL",
+        "BEACH",
+        "SINGLE",
+        "MOUNTAIN",
+        "PHOTOGRAPHY",
+        "HEALTHY",
+        "FAMILY",
+        "NATURE",
+        "FRIENDS",
+        "CITY",
+        "COUPLE",
+        "FLAVORS",
+        "HISTORY"
+      ],
+      "tags": [
+        "Familiar",
+        "Pareja",
+        "Amigos",
+        "Solo",
+        "Saludable",
+        "Espirituales",
+        "Playa",
+        "Montaña",
+        "Ciudad",
+        "Sabores",
+        "Fotografía",
+        "Naturaleza",
+        "Historia"
+      ],
+      "known_cities": [
+        "Orlando",
+        "Nueva York",
+        "Varadero",
+        "Roma",
+        "Natal",
+        "Madrid",
+        "Punta Cana",
+        "Riviera Maya",
+        "Río de Janeiro",
+        "Miami"
+      ],
+      "rating": 4.765625000000001,
+      "connected": false
+    },
+    "user": {
+      "id": "5abc1e9024aa9a000d829238",
+      "userId": "e0b14477-42bb-46aa-8196-41ceced12a3b",
+      "firstname": "Leonardo Martin",
+      "lastname": "Zanotti",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b8f46ce24aa9a000d4aa579",
+    "expertId": "217948",
+    "userId": "211039",
+    "comment": "Los recomendaria ya que tienen buena atencion,opcion para todos los bolsillos y ya he rezlizado varios viajes con ustedes",
+    "score": 4.75,
+    "recommendationScore": 10,
+    "creationDate": "2018-09-04 11:32:55",
+    "skillReviews": [
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 4
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79eb4324aa9a000e444445",
+      "userId": "217948",
+      "firstname": "Diego Hernan",
+      "lastname": "Long Elorriaga",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-bbd1f4b3-c0b6-4eb3-86ea-2990a5f285e5-2018-02-07T19:56:42.4495977635263310669978748b84d8ad5c2aecb1b17f554bef8d8e.png",
+      "images": {
+        "id": "5a7b59fa24aa9a000c1c2905",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-bbd1f4b3-c0b6-4eb3-86ea-2990a5f285e5-2018-02-07T19:56:42.4495977635263310669978748b84d8ad5c2aecb1b17f554bef8d8e.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-bbd1f4b3-c0b6-4eb3-86ea-2990a5f285e5-2018-02-07T19:56:42.4495977635263310669978748b84d8ad5c2aecb1b17f554bef8d8e.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-bbd1f4b3-c0b6-4eb3-86ea-2990a5f285e5-2018-02-07T19:56:42.4495977635263310669978748b84d8ad5c2aecb1b17f554bef8d8e.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-bbd1f4b3-c0b6-4eb3-86ea-2990a5f285e5-2018-02-07T19:56:42.4495977635263310669978748b84d8ad5c2aecb1b17f554bef8d8e.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/diego.long",
+      "image_id": "5a7b59fa24aa9a000c1c2905",
+      "nationality": null,
+      "city": {
+        "id": 1315752,
+        "name": "La Plata"
+      },
+      "skills": [
+        "BEACH",
+        "NATURE",
+        "FRIENDS",
+        "SINGLE",
+        "CITY",
+        "COUPLE",
+        "FLAVORS",
+        "FAMILY",
+        "HISTORY"
+      ],
+      "tags": [
+        "Familiar",
+        "Pareja",
+        "Amigos",
+        "Solo",
+        "Playa",
+        "Ciudad",
+        "Sabores",
+        "Naturaleza",
+        "Historia"
+      ],
+      "known_cities": [
+        "Barcelona",
+        "Nueva York",
+        "Cartagena de Indias",
+        "Madrid",
+        "Bangkok",
+        "Roma",
+        "Amsterdam",
+        "Miami",
+        "París",
+        "Río de Janeiro"
+      ],
+      "rating": 4.693548387096774,
+      "connected": false
+    },
+    "user": {
+      "id": "5a787ee224aa9a000d8e4ec3",
+      "userId": "211039",
+      "firstname": "claudia mabel",
+      "lastname": "perroni",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60780024aa9a000cfcc9b3",
+    "expertId": "257070",
+    "userId": "510703",
+    "comment": "Por la atención y predisposición   Tb la paciencia para escuchar y bel sacar opciones",
+    "score": 4.75,
+    "recommendationScore": 10,
+    "creationDate": "2018-05-26 13:52:52",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 4
+      }
+    ],
+    "expert": {
+      "id": "5a79ec5624aa9a000df5f0f0",
+      "userId": "257070",
+      "firstname": "Lucas",
+      "lastname": "Nieto",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-21de2cbc-9052-400f-8446-8669d3675802-2018-02-07T20:01:22.28942367208378712247500e4bf59321a495730b5224c41aad0b53.png",
+      "images": {
+        "id": "5a7b5b1224aa9a000c1c2a61",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-21de2cbc-9052-400f-8446-8669d3675802-2018-02-07T20:01:22.28942367208378712247500e4bf59321a495730b5224c41aad0b53.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-21de2cbc-9052-400f-8446-8669d3675802-2018-02-07T20:01:22.28942367208378712247500e4bf59321a495730b5224c41aad0b53.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-21de2cbc-9052-400f-8446-8669d3675802-2018-02-07T20:01:22.28942367208378712247500e4bf59321a495730b5224c41aad0b53.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-21de2cbc-9052-400f-8446-8669d3675802-2018-02-07T20:01:22.28942367208378712247500e4bf59321a495730b5224c41aad0b53.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/lucas.nieto",
+      "image_id": "5a7b5b1224aa9a000c1c2a61",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": {
+        "id": 1316590,
+        "name": "San Luis"
+      },
+      "skills": [
+        "SPIRITUAL",
+        "BEACH",
+        "SINGLE",
+        "MOUNTAIN",
+        "ADVENTURE",
+        "FASHION",
+        "PHOTOGRAPHY",
+        "HEALTHY",
+        "FAMILY",
+        "NATURE",
+        "FRIENDS",
+        "CITY",
+        "COUPLE",
+        "SHOPPING",
+        "FLAVORS",
+        "ART_LOVERS",
+        "TECHNOLOGY",
+        "HISTORY"
+      ],
+      "tags": [
+        "Familiar",
+        "Pareja",
+        "Amigos",
+        "Solo",
+        "Amantes del arte",
+        "Tecnología",
+        "Saludable",
+        "Espirituales",
+        "Playa",
+        "Montaña",
+        "Ciudad",
+        "Moda",
+        "Sabores",
+        "Fotografía",
+        "Naturaleza",
+        "Historia",
+        "Compras",
+        "Aventura"
+      ],
+      "known_cities": [
+        "Porto Seguro",
+        "Porto de Galinhas",
+        "Foz de Iguazú",
+        "Fortaleza",
+        "Playa del Carmen",
+        "Río de Janeiro",
+        "Isla de San Andrés",
+        "Lima",
+        "Varadero",
+        "Punta Cana"
+      ],
+      "rating": 4.827586206896553,
+      "connected": false
+    },
+    "user": {
+      "id": "5a788aa524aa9a000b461e7b",
+      "userId": "510703",
+      "firstname": "Sergio",
+      "lastname": "García Facciotti ",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b6077fe24aa9a000cfcc5bc",
+    "expertId": "263899",
+    "userId": "234065",
+    "comment": "Fui atendido por Francisco, muy bien asesorado y con la mejor buena predisposicion para resolver un viaje complicado con varias escalas",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-03-31 11:18:46",
+    "skillReviews": [
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79ec6a24aa9a000df5f118",
+      "userId": "263899",
+      "firstname": "Francisco",
+      "lastname": "Solimano",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-2841b913-cc84-4526-8e71-fbedf1911214-2018-02-07T20:01:42.064248832291997997598420a7081715fe086670c753879f0eeb00.png",
+      "images": {
+        "id": "5a7b5b2624aa9a000b41efb7",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-2841b913-cc84-4526-8e71-fbedf1911214-2018-02-07T20:01:42.064248832291997997598420a7081715fe086670c753879f0eeb00.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-2841b913-cc84-4526-8e71-fbedf1911214-2018-02-07T20:01:42.064248832291997997598420a7081715fe086670c753879f0eeb00.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-2841b913-cc84-4526-8e71-fbedf1911214-2018-02-07T20:01:42.064248832291997997598420a7081715fe086670c753879f0eeb00.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-2841b913-cc84-4526-8e71-fbedf1911214-2018-02-07T20:01:42.064248832291997997598420a7081715fe086670c753879f0eeb00.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/fransolimano",
+      "image_id": "5a7b5b2624aa9a000b41efb7",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": {
+        "id": 1282466,
+        "name": "Buenos Aires"
+      },
+      "skills": [
+        "NATURE",
+        "FRIENDS",
+        "CITY",
+        "FLAVORS",
+        "TECHNOLOGY",
+        "HISTORY"
+      ],
+      "tags": [
+        "Amigos",
+        "Tecnología",
+        "Ciudad",
+        "Sabores",
+        "Naturaleza",
+        "Historia"
+      ],
+      "known_cities": [
+        "Nueva York",
+        "Amsterdam",
+        "Barcelona",
+        "París",
+        "Berlín"
+      ],
+      "rating": 4.755813953488372,
+      "connected": false
+    },
+    "user": {
+      "id": "5a787f1a24aa9a000b43e748",
+      "userId": "234065",
+      "firstname": "Ramiro Eugenio",
+      "lastname": "Salvador",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767c24aa9a000cfcb036",
+    "expertId": "308c695f-ac75-4794-9511-0a0a04ed716f",
+    "userId": "a40e7efd-f655-4c6c-b123-63fa36c4ce32",
+    "comment": "Andrea Alvarez ha tenido excelente predisposición con la búsqueda tanto que pudimos realizar la compra...ahora a esperar el viaje!!!",
+    "score": 5,
+    "recommendationScore": 9,
+    "creationDate": "2018-04-22 17:17:44",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a78969524aa9a000d92ef3c",
+      "userId": "308c695f-ac75-4794-9511-0a0a04ed716f",
+      "firstname": "Andrea",
+      "lastname": "Alvarez",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.69,
+      "connected": false
+    },
+    "user": {
+      "id": "5adcedd224aa9a000d0d9efd",
+      "userId": "a40e7efd-f655-4c6c-b123-63fa36c4ce32",
+      "firstname": "ANALIA",
+      "lastname": "MAURO",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767c24aa9a000cfcb0c8",
+    "expertId": "308c695f-ac75-4794-9511-0a0a04ed716f",
+    "userId": "8774f2c6-a43c-4958-aa5d-96bef9d90ac1",
+    "comment": "fueron claros en todo momento...y nos fue fácil decidirnos. muchas opciones nos dio. muy recomendable.",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-07-12 18:58:18",
+    "skillReviews": [
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a78969524aa9a000d92ef3c",
+      "userId": "308c695f-ac75-4794-9511-0a0a04ed716f",
+      "firstname": "Andrea",
+      "lastname": "Alvarez",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.69,
+      "connected": false
+    },
+    "user": {
+      "id": "5b47cef024aa9a000bac4f2d",
+      "userId": "8774f2c6-a43c-4958-aa5d-96bef9d90ac1",
+      "firstname": "Carlos Javier",
+      "lastname": "Suriano",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767c24aa9a000cfcb098",
+    "expertId": "3574",
+    "userId": "ecccc020-6356-44aa-985a-d5c15b571baa",
+    "comment": "Siempre muy amable y buscando nuestra mayor conveniencia. Constanza una verdadera experta.",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-05-08 13:48:58",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e74924aa9a000e443d65",
+      "userId": "3574",
+      "firstname": "María Constanza",
+      "lastname": "Pratis",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+      "images": {
+        "id": "5ac5033124aa9a000b1c7f14",
+        "original_url": "https://images.almundo.com/ugc/production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/constanza.pratis",
+      "image_id": "5ac5033124aa9a000b1c7f14",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.690721649484534,
+      "connected": false
+    },
+    "user": {
+      "id": "5af1d4e624aa9a000d833bb4",
+      "userId": "ecccc020-6356-44aa-985a-d5c15b571baa",
+      "firstname": "CARLOS ALBERTO",
+      "lastname": "ACUÑA",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767d24aa9a000cfcb142",
+    "expertId": "3574",
+    "userId": "4f99dd9f-5d46-40f2-9817-59d7f711fe11",
+    "comment": "Debo resaltar la atencion y paciencia de las dos chicas que me atendieron que pusieron lo mejor de si para establecer el modo de pago. ",
+    "score": 4.25,
+    "recommendationScore": 9,
+    "creationDate": "2018-06-19 20:57:26",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 4
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 4
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 4
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e74924aa9a000e443d65",
+      "userId": "3574",
+      "firstname": "María Constanza",
+      "lastname": "Pratis",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+      "images": {
+        "id": "5ac5033124aa9a000b1c7f14",
+        "original_url": "https://images.almundo.com/ugc/production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/constanza.pratis",
+      "image_id": "5ac5033124aa9a000b1c7f14",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.690721649484534,
+      "connected": false
+    },
+    "user": {
+      "id": "5b29985c24aa9a000c16709e",
+      "userId": "4f99dd9f-5d46-40f2-9817-59d7f711fe11",
+      "firstname": "BARBARA SOFIA",
+      "lastname": "ROJAS",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5b3f77d824aa9a000ba9d9d1-fc065998-afb7-4819-8913-464923e7f588-2018-07-06T14:08:23.9334586758516069971761_platform_profilepic_.jpg",
+      "images": {
+        "id": "5b3f77d824aa9a000ba9d9d2",
+        "original_url": "https://images.almundo.com/ugc/production/5b3f77d824aa9a000ba9d9d1-fc065998-afb7-4819-8913-464923e7f588-2018-07-06T14:08:23.9334586758516069971761_platform_profilepic_.jpg",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5b3f77d824aa9a000ba9d9d1-fc065998-afb7-4819-8913-464923e7f588-2018-07-06T14:08:23.9334586758516069971761_platform_profilepic_.jpg",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5b3f77d824aa9a000ba9d9d1-fc065998-afb7-4819-8913-464923e7f588-2018-07-06T14:08:23.9334586758516069971761_platform_profilepic_.jpg",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5b3f77d824aa9a000ba9d9d1-fc065998-afb7-4819-8913-464923e7f588-2018-07-06T14:08:23.9334586758516069971761_platform_profilepic_.jpg",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": null,
+      "image_id": "5b3f77d824aa9a000ba9d9d2",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767d24aa9a000cfcb15d",
+    "expertId": "3574",
+    "userId": "66f89ed6-19fe-426c-8717-c98e81b3024f",
+    "comment": "Muy clara la chica que me atendió y muy detallado todo en dias compro el alojamiento con uds ",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-07-11 19:47:13",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e74924aa9a000e443d65",
+      "userId": "3574",
+      "firstname": "María Constanza",
+      "lastname": "Pratis",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+      "images": {
+        "id": "5ac5033124aa9a000b1c7f14",
+        "original_url": "https://images.almundo.com/ugc/production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a1eff8f24aa9a000d86b5d0-55916138-266e-492c-90db-e2d68ae2d3b3-2018-04-04T16:54:09.0148562991494548260178blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/constanza.pratis",
+      "image_id": "5ac5033124aa9a000b1c7f14",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.690721649484534,
+      "connected": false
+    },
+    "user": {
+      "id": "5b4688dd24aa9a000bc87a73",
+      "userId": "66f89ed6-19fe-426c-8717-c98e81b3024f",
+      "firstname": "AGUSTIN SERGIO",
+      "lastname": "ALBORNOZ",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767e24aa9a000cfcb37e",
+    "expertId": "36",
+    "userId": "753e9aa1-c526-4c68-b700-6ea319585829",
+    "comment": "Elizabeth fue precisa, amable, atenta a cada consulta y por suerte muy rápida para resolver la compra, un lujo!",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-07-11 22:02:15",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e73124aa9a000e443d40",
+      "userId": "36",
+      "firstname": "Elizabeth",
+      "lastname": "Camacho",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a2054c024aa9a000b0d44e6-a21de599-ab1c-4545-92d3-ee9d5c44cf35-2018-03-13T20:18:44.9225961516088372791683blob.png",
+      "images": {
+        "id": "5aa8322524aa9a000b47d451",
+        "original_url": "https://images.almundo.com/ugc/production/5a2054c024aa9a000b0d44e6-a21de599-ab1c-4545-92d3-ee9d5c44cf35-2018-03-13T20:18:44.9225961516088372791683blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a2054c024aa9a000b0d44e6-a21de599-ab1c-4545-92d3-ee9d5c44cf35-2018-03-13T20:18:44.9225961516088372791683blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a2054c024aa9a000b0d44e6-a21de599-ab1c-4545-92d3-ee9d5c44cf35-2018-03-13T20:18:44.9225961516088372791683blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a2054c024aa9a000b0d44e6-a21de599-ab1c-4545-92d3-ee9d5c44cf35-2018-03-13T20:18:44.9225961516088372791683blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/elizabeth.camacho",
+      "image_id": "5aa8322524aa9a000b47d451",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.758389261744968,
+      "connected": false
+    },
+    "user": {
+      "id": "5b2edc3424aa9a000ce21096",
+      "userId": "753e9aa1-c526-4c68-b700-6ea319585829",
+      "firstname": "Alberto",
+      "lastname": "Salazar",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767f24aa9a000cfcb5a8",
+    "expertId": "36",
+    "userId": "5a894182-cef0-4cd2-b44e-75e70ba2d3c8",
+    "comment": "Me gustó mucho el servicio, Elizabeth Camacho nos ayudó y acesoro en todo para poder realizar nuestra compra. ",
+    "score": 4.75,
+    "recommendationScore": 10,
+    "creationDate": "2018-06-13 20:02:14",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 4
+      }
+    ],
+    "expert": {
+      "id": "5a79e73124aa9a000e443d40",
+      "userId": "36",
+      "firstname": "Elizabeth",
+      "lastname": "Camacho",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a2054c024aa9a000b0d44e6-a21de599-ab1c-4545-92d3-ee9d5c44cf35-2018-03-13T20:18:44.9225961516088372791683blob.png",
+      "images": {
+        "id": "5aa8322524aa9a000b47d451",
+        "original_url": "https://images.almundo.com/ugc/production/5a2054c024aa9a000b0d44e6-a21de599-ab1c-4545-92d3-ee9d5c44cf35-2018-03-13T20:18:44.9225961516088372791683blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a2054c024aa9a000b0d44e6-a21de599-ab1c-4545-92d3-ee9d5c44cf35-2018-03-13T20:18:44.9225961516088372791683blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a2054c024aa9a000b0d44e6-a21de599-ab1c-4545-92d3-ee9d5c44cf35-2018-03-13T20:18:44.9225961516088372791683blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a2054c024aa9a000b0d44e6-a21de599-ab1c-4545-92d3-ee9d5c44cf35-2018-03-13T20:18:44.9225961516088372791683blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/elizabeth.camacho",
+      "image_id": "5aa8322524aa9a000b47d451",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.758389261744968,
+      "connected": false
+    },
+    "user": {
+      "id": "5b21a26424aa9a000da5c93c",
+      "userId": "5a894182-cef0-4cd2-b44e-75e70ba2d3c8",
+      "firstname": "Cecilia Leonor",
+      "lastname": "Orsini",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60770024aa9a000cfcb9e9",
+    "expertId": "370176",
+    "userId": "8fca260f-c463-46a3-acb4-ddd5c650637a",
+    "comment": "Todo muy bien. Lo recomendaría por la atención.  Y preposicion para encontrar lo más conveniente",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-05-18 16:14:51",
+    "skillReviews": [
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79ee0024aa9a000df5f3d9",
+      "userId": "370176",
+      "firstname": "Leonel",
+      "lastname": "Mordkowski",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-45779893-f70d-4b05-a2a8-a586ad56e8d1-2018-02-07T20:11:09.692276414897743310802718eb4214fc6276184807050e021a4248.png",
+      "images": {
+        "id": "5a7b5d5d24aa9a000b41f255",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-45779893-f70d-4b05-a2a8-a586ad56e8d1-2018-02-07T20:11:09.692276414897743310802718eb4214fc6276184807050e021a4248.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-45779893-f70d-4b05-a2a8-a586ad56e8d1-2018-02-07T20:11:09.692276414897743310802718eb4214fc6276184807050e021a4248.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-45779893-f70d-4b05-a2a8-a586ad56e8d1-2018-02-07T20:11:09.692276414897743310802718eb4214fc6276184807050e021a4248.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-45779893-f70d-4b05-a2a8-a586ad56e8d1-2018-02-07T20:11:09.692276414897743310802718eb4214fc6276184807050e021a4248.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/leonel.mordkowski",
+      "image_id": "5a7b5d5d24aa9a000b41f255",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.67826086956522,
+      "connected": false
+    },
+    "user": {
+      "id": "5aff261024aa9a000b9e031b",
+      "userId": "8fca260f-c463-46a3-acb4-ddd5c650637a",
+      "firstname": "Hugo Omar",
+      "lastname": "Delgado",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767d24aa9a000cfcb23a",
+    "expertId": "410359",
+    "userId": "441153",
+    "comment": "El fue muy profesional, se tomó todo el tiempo que yo demandé para encontrar los aéreos que yo quería ",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-05-03 10:55:18",
+    "skillReviews": [
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79ee8424aa9a000df5f4d8",
+      "userId": "410359",
+      "firstname": "Alejandro",
+      "lastname": "Paiva",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-1e235be2-b483-494e-aa33-3a65846bd6e7-2018-02-07T20:14:47.6213329349070075489253af72c4adb4673865eb0e32d6b93eedc2.png",
+      "images": {
+        "id": "5a7b5e3724aa9a000c1c2e1f",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-1e235be2-b483-494e-aa33-3a65846bd6e7-2018-02-07T20:14:47.6213329349070075489253af72c4adb4673865eb0e32d6b93eedc2.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-1e235be2-b483-494e-aa33-3a65846bd6e7-2018-02-07T20:14:47.6213329349070075489253af72c4adb4673865eb0e32d6b93eedc2.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-1e235be2-b483-494e-aa33-3a65846bd6e7-2018-02-07T20:14:47.6213329349070075489253af72c4adb4673865eb0e32d6b93eedc2.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-1e235be2-b483-494e-aa33-3a65846bd6e7-2018-02-07T20:14:47.6213329349070075489253af72c4adb4673865eb0e32d6b93eedc2.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/alejandro.paiva",
+      "image_id": "5a7b5e3724aa9a000c1c2e1f",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.771739130434781,
+      "connected": false
+    },
+    "user": {
+      "id": "5a78862624aa9a000d8ff928",
+      "userId": "441153",
+      "firstname": "Carolina",
+      "lastname": "Schlenker",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767f24aa9a000cfcb55a",
+    "expertId": "45057",
+    "userId": "207418",
+    "comment": "Porque la operadora comprendió  y encontró lo que buscaba, me aconsejó correctamente y buscó la mejor propuesta al mejor precio.",
+    "score": 5,
+    "recommendationScore": 9,
+    "creationDate": "2018-03-24 20:14:56",
+    "skillReviews": [
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e7b224aa9a000e443e14",
+      "userId": "45057",
+      "firstname": "Liliana",
+      "lastname": "Lopez",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-ebc982dd-661a-4245-ae30-3f8b7edc22b4-2018-02-07T18:46:50.5752028659905965873091a1004e3c8a439ceeed4759e11c53ca6e.png",
+      "images": {
+        "id": "5a7b499a24aa9a000b41e842",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-ebc982dd-661a-4245-ae30-3f8b7edc22b4-2018-02-07T18:46:50.5752028659905965873091a1004e3c8a439ceeed4759e11c53ca6e.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-ebc982dd-661a-4245-ae30-3f8b7edc22b4-2018-02-07T18:46:50.5752028659905965873091a1004e3c8a439ceeed4759e11c53ca6e.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-ebc982dd-661a-4245-ae30-3f8b7edc22b4-2018-02-07T18:46:50.5752028659905965873091a1004e3c8a439ceeed4759e11c53ca6e.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-ebc982dd-661a-4245-ae30-3f8b7edc22b4-2018-02-07T18:46:50.5752028659905965873091a1004e3c8a439ceeed4759e11c53ca6e.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/liliana.lopez",
+      "image_id": "5a7b499a24aa9a000b41e842",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.7703703703703715,
+      "connected": false
+    },
+    "user": {
+      "id": "5a787ed924aa9a000b43b0ac",
+      "userId": "207418",
+      "firstname": "ALBERTO",
+      "lastname": "NOBILI",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767c24aa9a000cfcb035",
+    "expertId": "463922",
+    "userId": "2b9e0f75-6b41-47a8-b7ce-a514c229dd35",
+    "comment": "que me muestre todas las opciones, sea atenta y amable, por eso siempre viajo con almundo ",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-07-05 16:19:48",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79ef2424aa9a000df5f5f1",
+      "userId": "463922",
+      "firstname": "Damiana",
+      "lastname": "Rocchetti",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-d74c2ba8-64ba-4e78-aaaf-881bcd0f8306-2018-02-07T20:17:39.96566072269264965572648cae55572884be6cc1954b3bd3ee03b4.png",
+      "images": {
+        "id": "5a7b5ee424aa9a000c1c2f2e",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-d74c2ba8-64ba-4e78-aaaf-881bcd0f8306-2018-02-07T20:17:39.96566072269264965572648cae55572884be6cc1954b3bd3ee03b4.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-d74c2ba8-64ba-4e78-aaaf-881bcd0f8306-2018-02-07T20:17:39.96566072269264965572648cae55572884be6cc1954b3bd3ee03b4.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-d74c2ba8-64ba-4e78-aaaf-881bcd0f8306-2018-02-07T20:17:39.96566072269264965572648cae55572884be6cc1954b3bd3ee03b4.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-d74c2ba8-64ba-4e78-aaaf-881bcd0f8306-2018-02-07T20:17:39.96566072269264965572648cae55572884be6cc1954b3bd3ee03b4.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/damianarocchetti",
+      "image_id": "5a7b5ee424aa9a000c1c2f2e",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.742063492063491,
+      "connected": false
+    },
+    "user": {
+      "id": "5a7895d924aa9a000d92772e",
+      "userId": "2b9e0f75-6b41-47a8-b7ce-a514c229dd35",
+      "firstname": "MARIA BELEN",
+      "lastname": "SUHURT",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5ad0ac5624aa9a000b1cc5f7-2c606a39-ecaf-494a-9e5e-eb0b65258f20-2018-04-13T13:10:46.0732264816706062905953_platform_profilepic_.jpg",
+      "images": {
+        "id": "5ad0ac5624aa9a000b1cc5f8",
+        "original_url": "https://images.almundo.com/ugc/production/5ad0ac5624aa9a000b1cc5f7-2c606a39-ecaf-494a-9e5e-eb0b65258f20-2018-04-13T13:10:46.0732264816706062905953_platform_profilepic_.jpg",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5ad0ac5624aa9a000b1cc5f7-2c606a39-ecaf-494a-9e5e-eb0b65258f20-2018-04-13T13:10:46.0732264816706062905953_platform_profilepic_.jpg",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5ad0ac5624aa9a000b1cc5f7-2c606a39-ecaf-494a-9e5e-eb0b65258f20-2018-04-13T13:10:46.0732264816706062905953_platform_profilepic_.jpg",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5ad0ac5624aa9a000b1cc5f7-2c606a39-ecaf-494a-9e5e-eb0b65258f20-2018-04-13T13:10:46.0732264816706062905953_platform_profilepic_.jpg",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": null,
+      "image_id": "5ad0ac5624aa9a000b1cc5f8",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b6076ff24aa9a000cfcb837",
+    "expertId": "486904",
+    "userId": "c4740568-a8e4-4b7a-9777-082182f27fd2",
+    "comment": "Marina excelente persona y muy predispuesta para atendernos y solucionarnos nuestras inquietudes, gracias",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-05-08 20:06:25",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79ef5824aa9a000e444ae4",
+      "userId": "486904",
+      "firstname": "Marina",
+      "lastname": "Miranda",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a341e6924aa9a000dad02d3-1adfcaba-64da-489d-9a40-83c2ff369e02-2018-08-23T18:56:37.5461439166666325865573blob.png",
+      "images": {
+        "id": "5b7f036524aa9a000bac1e24",
+        "original_url": "https://images.almundo.com/ugc/production/5a341e6924aa9a000dad02d3-1adfcaba-64da-489d-9a40-83c2ff369e02-2018-08-23T18:56:37.5461439166666325865573blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a341e6924aa9a000dad02d3-1adfcaba-64da-489d-9a40-83c2ff369e02-2018-08-23T18:56:37.5461439166666325865573blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a341e6924aa9a000dad02d3-1adfcaba-64da-489d-9a40-83c2ff369e02-2018-08-23T18:56:37.5461439166666325865573blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a341e6924aa9a000dad02d3-1adfcaba-64da-489d-9a40-83c2ff369e02-2018-08-23T18:56:37.5461439166666325865573blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/marina.miranda",
+      "image_id": "5b7f036524aa9a000bac1e24",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.742574257425744,
+      "connected": false
+    },
+    "user": {
+      "id": "5af22d5e24aa9a000d833d3a",
+      "userId": "c4740568-a8e4-4b7a-9777-082182f27fd2",
+      "firstname": "ESTELA SILVANA",
+      "lastname": "TOSI",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60770024aa9a000cfcba82",
+    "expertId": "49777",
+    "userId": "75904",
+    "comment": "POR EL PROFESIONALISMO Y LA EXCELENTE PREDISPOSICIÓN DE LA SRTA. LUCIANA QUE ME ATENDIÓ.  TODO PERFECTO !!!",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-04-23 10:24:51",
+    "skillReviews": [
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e7b924aa9a000df5e9e0",
+      "userId": "49777",
+      "firstname": "luciana",
+      "lastname": "marino",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5ab4023024aa9a000ba609b8-45b5d248-82ed-4920-bfab-a78a813da3b2-2018-03-22T19:43:38.5315793893300633582323blob.png",
+      "images": {
+        "id": "5ab4076a24aa9a000ba609f2",
+        "original_url": "https://images.almundo.com/ugc/production/5ab4023024aa9a000ba609b8-45b5d248-82ed-4920-bfab-a78a813da3b2-2018-03-22T19:43:38.5315793893300633582323blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5ab4023024aa9a000ba609b8-45b5d248-82ed-4920-bfab-a78a813da3b2-2018-03-22T19:43:38.5315793893300633582323blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5ab4023024aa9a000ba609b8-45b5d248-82ed-4920-bfab-a78a813da3b2-2018-03-22T19:43:38.5315793893300633582323blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5ab4023024aa9a000ba609b8-45b5d248-82ed-4920-bfab-a78a813da3b2-2018-03-22T19:43:38.5315793893300633582323blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/luciana.marino",
+      "image_id": "5ab4076a24aa9a000ba609f2",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.746913580246914,
+      "connected": false
+    },
+    "user": {
+      "id": "5a787bdd24aa9a000b42a668",
+      "userId": "75904",
+      "firstname": "Jose Ricardo",
+      "lastname": "Bergallo",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60778824aa9a000cfcc2ea",
+    "expertId": "49777",
+    "userId": "e43b1694-95df-41d1-9212-8c2b71a0cb14",
+    "comment": "La persona que me atendió tuvo muy buena predisposición y la recomendación me la reserva hasta regresar del viaje.",
+    "score": 4.75,
+    "recommendationScore": 9,
+    "creationDate": "2018-06-07 17:16:19",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 4
+      }
+    ],
+    "expert": {
+      "id": "5a79e7b924aa9a000df5e9e0",
+      "userId": "49777",
+      "firstname": "luciana",
+      "lastname": "marino",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5ab4023024aa9a000ba609b8-45b5d248-82ed-4920-bfab-a78a813da3b2-2018-03-22T19:43:38.5315793893300633582323blob.png",
+      "images": {
+        "id": "5ab4076a24aa9a000ba609f2",
+        "original_url": "https://images.almundo.com/ugc/production/5ab4023024aa9a000ba609b8-45b5d248-82ed-4920-bfab-a78a813da3b2-2018-03-22T19:43:38.5315793893300633582323blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5ab4023024aa9a000ba609b8-45b5d248-82ed-4920-bfab-a78a813da3b2-2018-03-22T19:43:38.5315793893300633582323blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5ab4023024aa9a000ba609b8-45b5d248-82ed-4920-bfab-a78a813da3b2-2018-03-22T19:43:38.5315793893300633582323blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5ab4023024aa9a000ba609b8-45b5d248-82ed-4920-bfab-a78a813da3b2-2018-03-22T19:43:38.5315793893300633582323blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/luciana.marino",
+      "image_id": "5ab4076a24aa9a000ba609f2",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.746913580246914,
+      "connected": false
+    },
+    "user": {
+      "id": "5b0db6c824aa9a000d4fa9c5",
+      "userId": "e43b1694-95df-41d1-9212-8c2b71a0cb14",
+      "firstname": "Maria Alejandra",
+      "lastname": "Pasquali",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767f24aa9a000cfcb564",
+    "expertId": "57903",
+    "userId": "113705",
+    "comment": "Es mi mejor asesor y experto en Viajes Federico Profitos todos mis viajes los contrato con El.Impecable Persona y Asesor!",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-06-24 17:59:11",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "59d671b624aa9a000dab2941",
+      "userId": "57903",
+      "firstname": "Federico",
+      "lastname": "Profitos",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-b507e977-87af-43cf-a75e-97ca40072129-2018-02-07T18:51:23.73181804505650635138549bf18f725b9b7e21a1e4aa84f6bec784.png",
+      "images": {
+        "id": "5a7b4aab24aa9a000c1c2346",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-b507e977-87af-43cf-a75e-97ca40072129-2018-02-07T18:51:23.73181804505650635138549bf18f725b9b7e21a1e4aa84f6bec784.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-b507e977-87af-43cf-a75e-97ca40072129-2018-02-07T18:51:23.73181804505650635138549bf18f725b9b7e21a1e4aa84f6bec784.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-b507e977-87af-43cf-a75e-97ca40072129-2018-02-07T18:51:23.73181804505650635138549bf18f725b9b7e21a1e4aa84f6bec784.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-b507e977-87af-43cf-a75e-97ca40072129-2018-02-07T18:51:23.73181804505650635138549bf18f725b9b7e21a1e4aa84f6bec784.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/fedeprofitos",
+      "image_id": "5a7b4aab24aa9a000c1c2346",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.761194029850748,
+      "connected": false
+    },
+    "user": {
+      "id": "5a79e8ee24aa9a000df5eb85",
+      "userId": "113705",
+      "firstname": "Andrea Betina",
+      "lastname": "Morales",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-0dfa1ea3-4f78-40a7-8311-a22912d61886-2018-02-07T19:07:56.6836229970714585875776f946ea963376ff34784cbf3863197022.png",
+      "images": {
+        "id": "5a7b4e8c24aa9a000c1c24d5",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-0dfa1ea3-4f78-40a7-8311-a22912d61886-2018-02-07T19:07:56.6836229970714585875776f946ea963376ff34784cbf3863197022.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-0dfa1ea3-4f78-40a7-8311-a22912d61886-2018-02-07T19:07:56.6836229970714585875776f946ea963376ff34784cbf3863197022.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-0dfa1ea3-4f78-40a7-8311-a22912d61886-2018-02-07T19:07:56.6836229970714585875776f946ea963376ff34784cbf3863197022.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-0dfa1ea3-4f78-40a7-8311-a22912d61886-2018-02-07T19:07:56.6836229970714585875776f946ea963376ff34784cbf3863197022.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": null,
+      "image_id": "5a7b4e8c24aa9a000c1c24d5",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b6076ff24aa9a000cfcb825",
+    "expertId": "581214",
+    "userId": "7dc165d9-45d0-4e05-a60d-a12bc47db98b",
+    "comment": "Muy buena predisposición. Toda la información que necesitaba. Muy amable ella. Excelente atención.",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-04-21 13:24:36",
+    "skillReviews": [
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a788bde24aa9a000d90feba",
+      "userId": "581214",
+      "firstname": "Victoria",
+      "lastname": "Phan Van Thu Vale",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.724999999999998,
+      "connected": false
+    },
+    "user": {
+      "id": "5a9e0a2f24aa9a000d1f75ae",
+      "userId": "7dc165d9-45d0-4e05-a60d-a12bc47db98b",
+      "firstname": "Florencia",
+      "lastname": "Folino",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b6076ff24aa9a000cfcb939",
+    "expertId": "581214",
+    "userId": "0303279e-1fe7-41be-a0ca-879335666be3",
+    "comment": "La chica fue super amable, sabe evacuar todo tipo de dudas y recomendar la mejor opcion. Una genia! ",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-06-13 11:12:29",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a788bde24aa9a000d90feba",
+      "userId": "581214",
+      "firstname": "Victoria",
+      "lastname": "Phan Van Thu Vale",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.724999999999998,
+      "connected": false
+    },
+    "user": {
+      "id": "5b21263424aa9a000da5c6d4",
+      "userId": "0303279e-1fe7-41be-a0ca-879335666be3",
+      "firstname": "juan",
+      "lastname": "LORENZO",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60770224aa9a000cfcbd9d",
+    "expertId": "581214",
+    "userId": "375537",
+    "comment": "Tuve una atención excelente. La asesora me informó muy bien y me ayudó a decidir mi compra con total profesionalismo. Muy recomendable.",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-06-08 13:33:38",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a788bde24aa9a000d90feba",
+      "userId": "581214",
+      "firstname": "Victoria",
+      "lastname": "Phan Van Thu Vale",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.724999999999998,
+      "connected": false
+    },
+    "user": {
+      "id": "5a7883fe24aa9a000b4509d5",
+      "userId": "375537",
+      "firstname": "Esteban Ignacio",
+      "lastname": "Jorge",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60768024aa9a000cfcb627",
+    "expertId": "60933",
+    "userId": "282369",
+    "comment": "siempre elijo al mundo para viajar! me siento segura porque se que todo va a salir bien!",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-03-20 19:18:32",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e80b24aa9a000df5ea1d",
+      "userId": "60933",
+      "firstname": "Walter",
+      "lastname": "Gonzalez",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-e515b0db-8810-4986-b257-06efc8bb856a-2018-02-07T18:51:32.5219170998893711810583f36f38a97035ab7854be4afabf4a4092.png",
+      "images": {
+        "id": "5a7b4ab424aa9a000c1c235b",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-e515b0db-8810-4986-b257-06efc8bb856a-2018-02-07T18:51:32.5219170998893711810583f36f38a97035ab7854be4afabf4a4092.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-e515b0db-8810-4986-b257-06efc8bb856a-2018-02-07T18:51:32.5219170998893711810583f36f38a97035ab7854be4afabf4a4092.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-e515b0db-8810-4986-b257-06efc8bb856a-2018-02-07T18:51:32.5219170998893711810583f36f38a97035ab7854be4afabf4a4092.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-e515b0db-8810-4986-b257-06efc8bb856a-2018-02-07T18:51:32.5219170998893711810583f36f38a97035ab7854be4afabf4a4092.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/walter.gonzalez",
+      "image_id": "5a7b4ab424aa9a000c1c235b",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.6870748299319756,
+      "connected": false
+    },
+    "user": {
+      "id": "5a787fc524aa9a000d8ed361",
+      "userId": "282369",
+      "firstname": "Claudia Elena",
+      "lastname": "Rial",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767d24aa9a000cfcb116",
+    "expertId": "60958",
+    "userId": "490348",
+    "comment": "Es la segunda vez que compro un viaje en lasocuesal del Tortugas y siempre  nos atendieron muy bien ",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-07-21 16:09:37",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e80f24aa9a000e443e6c",
+      "userId": "60958",
+      "firstname": "Maria Julieta",
+      "lastname": "Monzon",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-e2ef6959-b9f4-4000-b25e-e9dbdb49ec09-2018-02-07T18:51:36.276170722746713404807403b27423b402fbdfc746a9720a7a0587.png",
+      "images": {
+        "id": "5a7b4ab824aa9a000b41e894",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-e2ef6959-b9f4-4000-b25e-e9dbdb49ec09-2018-02-07T18:51:36.276170722746713404807403b27423b402fbdfc746a9720a7a0587.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-e2ef6959-b9f4-4000-b25e-e9dbdb49ec09-2018-02-07T18:51:36.276170722746713404807403b27423b402fbdfc746a9720a7a0587.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-e2ef6959-b9f4-4000-b25e-e9dbdb49ec09-2018-02-07T18:51:36.276170722746713404807403b27423b402fbdfc746a9720a7a0587.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-e2ef6959-b9f4-4000-b25e-e9dbdb49ec09-2018-02-07T18:51:36.276170722746713404807403b27423b402fbdfc746a9720a7a0587.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/maria.monzon",
+      "image_id": "5a7b4ab824aa9a000b41e894",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.732758620689658,
+      "connected": false
+    },
+    "user": {
+      "id": "5a788a4424aa9a000b45f5e6",
+      "userId": "490348",
+      "firstname": "walter",
+      "lastname": "brajus",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5aa94f8924aa9a000b47e884-a17f9059-c817-40d7-8037-ec504dc8044d-2018-03-14T16:36:25.9448287652112028474929_v_t31.0-1_c8.0.2032.2032_26756504_1987896704803476_7830999828061708533_o.jpg",
+      "images": {
+        "id": "5aa94f8a24aa9a000b47e885",
+        "original_url": "https://images.almundo.com/ugc/production/5aa94f8924aa9a000b47e884-a17f9059-c817-40d7-8037-ec504dc8044d-2018-03-14T16:36:25.9448287652112028474929_v_t31.0-1_c8.0.2032.2032_26756504_1987896704803476_7830999828061708533_o.jpg",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5aa94f8924aa9a000b47e884-a17f9059-c817-40d7-8037-ec504dc8044d-2018-03-14T16:36:25.9448287652112028474929_v_t31.0-1_c8.0.2032.2032_26756504_1987896704803476_7830999828061708533_o.jpg",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5aa94f8924aa9a000b47e884-a17f9059-c817-40d7-8037-ec504dc8044d-2018-03-14T16:36:25.9448287652112028474929_v_t31.0-1_c8.0.2032.2032_26756504_1987896704803476_7830999828061708533_o.jpg",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5aa94f8924aa9a000b47e884-a17f9059-c817-40d7-8037-ec504dc8044d-2018-03-14T16:36:25.9448287652112028474929_v_t31.0-1_c8.0.2032.2032_26756504_1987896704803476_7830999828061708533_o.jpg",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": null,
+      "image_id": "5aa94f8a24aa9a000b47e885",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767c24aa9a000cfcb050",
+    "expertId": "60990",
+    "userId": "441914",
+    "comment": "sole me da tranquilidad...spre me busca la mejor opcion..buscamos precio..mucha paciencia..la amooo!!",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-05-15 16:40:28",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81124aa9a000e443e70",
+      "userId": "60990",
+      "firstname": "Maria Soledad",
+      "lastname": "Cerda",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a20633e24aa9a000b0d4503-29dd2ff4-bc6e-420c-85e0-497ed068f2cb-2018-03-13T20:41:17.7378352735533060174108blob.png",
+      "images": {
+        "id": "5aa8376d24aa9a000b47d499",
+        "original_url": "https://images.almundo.com/ugc/production/5a20633e24aa9a000b0d4503-29dd2ff4-bc6e-420c-85e0-497ed068f2cb-2018-03-13T20:41:17.7378352735533060174108blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a20633e24aa9a000b0d4503-29dd2ff4-bc6e-420c-85e0-497ed068f2cb-2018-03-13T20:41:17.7378352735533060174108blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a20633e24aa9a000b0d4503-29dd2ff4-bc6e-420c-85e0-497ed068f2cb-2018-03-13T20:41:17.7378352735533060174108blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a20633e24aa9a000b0d4503-29dd2ff4-bc6e-420c-85e0-497ed068f2cb-2018-03-13T20:41:17.7378352735533060174108blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/mariasoledad.cerda",
+      "image_id": "5aa8376d24aa9a000b47d499",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.673553719008266,
+      "connected": false
+    },
+    "user": {
+      "id": "5a78862824aa9a000b4591f3",
+      "userId": "441914",
+      "firstname": "CECILIA RUTH",
+      "lastname": "FUENTES",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5b16d15324aa9a000c601a09-c483bccf-a0b9-4805-ba32-9f041e3881c8-2018-06-05T18:07:15.7024341322969289847847_platform_profilepic_.jpg",
+      "images": {
+        "id": "5b16d15324aa9a000c601a0b",
+        "original_url": "https://images.almundo.com/ugc/production/5b16d15324aa9a000c601a09-c483bccf-a0b9-4805-ba32-9f041e3881c8-2018-06-05T18:07:15.7024341322969289847847_platform_profilepic_.jpg",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5b16d15324aa9a000c601a09-c483bccf-a0b9-4805-ba32-9f041e3881c8-2018-06-05T18:07:15.7024341322969289847847_platform_profilepic_.jpg",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5b16d15324aa9a000c601a09-c483bccf-a0b9-4805-ba32-9f041e3881c8-2018-06-05T18:07:15.7024341322969289847847_platform_profilepic_.jpg",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5b16d15324aa9a000c601a09-c483bccf-a0b9-4805-ba32-9f041e3881c8-2018-06-05T18:07:15.7024341322969289847847_platform_profilepic_.jpg",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": null,
+      "image_id": "5b16d15324aa9a000c601a0b",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b6076ff24aa9a000cfcb907",
+    "expertId": "60990",
+    "userId": "4d9884eb-bdcf-43a3-bd9b-9a6f8e4d2d04",
+    "comment": "Hoy sólo tuvimos inconvenientes al momento de pagar porque Master Nativa  no tomaba datos... Estamos esperando que se solucione. ",
+    "score": 5,
+    "recommendationScore": 8,
+    "creationDate": "2018-03-24 12:27:56",
+    "skillReviews": [
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81124aa9a000e443e70",
+      "userId": "60990",
+      "firstname": "Maria Soledad",
+      "lastname": "Cerda",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a20633e24aa9a000b0d4503-29dd2ff4-bc6e-420c-85e0-497ed068f2cb-2018-03-13T20:41:17.7378352735533060174108blob.png",
+      "images": {
+        "id": "5aa8376d24aa9a000b47d499",
+        "original_url": "https://images.almundo.com/ugc/production/5a20633e24aa9a000b0d4503-29dd2ff4-bc6e-420c-85e0-497ed068f2cb-2018-03-13T20:41:17.7378352735533060174108blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a20633e24aa9a000b0d4503-29dd2ff4-bc6e-420c-85e0-497ed068f2cb-2018-03-13T20:41:17.7378352735533060174108blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a20633e24aa9a000b0d4503-29dd2ff4-bc6e-420c-85e0-497ed068f2cb-2018-03-13T20:41:17.7378352735533060174108blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a20633e24aa9a000b0d4503-29dd2ff4-bc6e-420c-85e0-497ed068f2cb-2018-03-13T20:41:17.7378352735533060174108blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/mariasoledad.cerda",
+      "image_id": "5aa8376d24aa9a000b47d499",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.673553719008266,
+      "connected": false
+    },
+    "user": {
+      "id": "5ab66e6c24aa9a000b7d78a1",
+      "userId": "4d9884eb-bdcf-43a3-bd9b-9a6f8e4d2d04",
+      "firstname": "maria estela",
+      "lastname": "nanclares",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b90142ebd1cdf54a4294163",
+    "expertId": "60991",
+    "userId": "179684",
+    "comment": "Buenos dias!! La antencion, paciencia y predisposicion de Veronica Accardo. Saludos",
+    "recommendationScore": 9,
+    "creationDate": "2017-06-15 00:00:00",
+    "skillReviews": [],
+    "expert": {
+      "id": "5a79e81124aa9a000e443e71",
+      "userId": "60991",
+      "firstname": "Veronica Andrea",
+      "lastname": "Accardo",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a20649424aa9a000b0d450c-e42ed809-a3c6-4ffd-b314-17c9b3f50a44-2018-03-17T16:50:20.5077875329161098951932blob.png",
+      "images": {
+        "id": "5aad474c24aa9a000b49903d",
+        "original_url": "https://images.almundo.com/ugc/production/5a20649424aa9a000b0d450c-e42ed809-a3c6-4ffd-b314-17c9b3f50a44-2018-03-17T16:50:20.5077875329161098951932blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a20649424aa9a000b0d450c-e42ed809-a3c6-4ffd-b314-17c9b3f50a44-2018-03-17T16:50:20.5077875329161098951932blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a20649424aa9a000b0d450c-e42ed809-a3c6-4ffd-b314-17c9b3f50a44-2018-03-17T16:50:20.5077875329161098951932blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a20649424aa9a000b0d450c-e42ed809-a3c6-4ffd-b314-17c9b3f50a44-2018-03-17T16:50:20.5077875329161098951932blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/veronica.accardo",
+      "image_id": "5aad474c24aa9a000b49903d",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.677083333333335,
+      "connected": false
+    },
+    "user": {
+      "id": "5a787dc224aa9a000d8e14af",
+      "userId": "179684",
+      "firstname": "leila",
+      "lastname": "fernandez",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b6076ff24aa9a000cfcb916",
+    "expertId": "60992",
+    "userId": "6b0e883e-157f-48c0-83ec-e24537c81c9e",
+    "comment": "Las predisposición y amabilidad fue los más sobresaliente. Gente muy comprometida con su trabajo. Gracias por todo ",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-04-20 15:17:08",
+    "skillReviews": [
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81224aa9a000e443e72",
+      "userId": "60992",
+      "firstname": "Analia",
+      "lastname": "Lamas",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a1da94424aa9a000b0d42f8-0fc80ae8-2cd5-4564-b95c-c6ddd2e03a10-2018-07-02T13:57:48.2786883220074599328866blob.png",
+      "images": {
+        "id": "5b3a2f5c24aa9a000ba9cca6",
+        "original_url": "https://images.almundo.com/ugc/production/5a1da94424aa9a000b0d42f8-0fc80ae8-2cd5-4564-b95c-c6ddd2e03a10-2018-07-02T13:57:48.2786883220074599328866blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a1da94424aa9a000b0d42f8-0fc80ae8-2cd5-4564-b95c-c6ddd2e03a10-2018-07-02T13:57:48.2786883220074599328866blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a1da94424aa9a000b0d42f8-0fc80ae8-2cd5-4564-b95c-c6ddd2e03a10-2018-07-02T13:57:48.2786883220074599328866blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a1da94424aa9a000b0d42f8-0fc80ae8-2cd5-4564-b95c-c6ddd2e03a10-2018-07-02T13:57:48.2786883220074599328866blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/analia.lamas",
+      "image_id": "5b3a2f5c24aa9a000ba9cca6",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.717857142857144,
+      "connected": false
+    },
+    "user": {
+      "id": "5ada2e9124aa9a000d82fa28",
+      "userId": "6b0e883e-157f-48c0-83ec-e24537c81c9e",
+      "firstname": "JUAN MANUEL",
+      "lastname": "GONZALEZ",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767e24aa9a000cfcb28c",
+    "expertId": "60998",
+    "userId": "c03528fa-d2a1-428a-8791-f52fe2883b93",
+    "comment": "muy buena atencion, mucha amabilidad al momento de responder nuestras dudas y consultas. ",
+    "score": 4.75,
+    "recommendationScore": 9,
+    "creationDate": "2018-04-15 20:13:46",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 4
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81224aa9a000e443e75",
+      "userId": "60998",
+      "firstname": "Diego",
+      "lastname": "Rossini",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-89a72592-3855-407d-9184-d0ed7311a2fc-2018-02-07T18:51:39.318878736153172966445076588031f469a34ea18e81abaed794f7.png",
+      "images": {
+        "id": "5a7b4abb24aa9a000b41e89a",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-89a72592-3855-407d-9184-d0ed7311a2fc-2018-02-07T18:51:39.318878736153172966445076588031f469a34ea18e81abaed794f7.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-89a72592-3855-407d-9184-d0ed7311a2fc-2018-02-07T18:51:39.318878736153172966445076588031f469a34ea18e81abaed794f7.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-89a72592-3855-407d-9184-d0ed7311a2fc-2018-02-07T18:51:39.318878736153172966445076588031f469a34ea18e81abaed794f7.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-89a72592-3855-407d-9184-d0ed7311a2fc-2018-02-07T18:51:39.318878736153172966445076588031f469a34ea18e81abaed794f7.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/diego.rossini",
+      "image_id": "5a7b4abb24aa9a000b41e89a",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.784090909090908,
+      "connected": false
+    },
+    "user": {
+      "id": "5a7898a324aa9a000b495337",
+      "userId": "c03528fa-d2a1-428a-8791-f52fe2883b93",
+      "firstname": "Alicia",
+      "lastname": "Longoni",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b6076fe24aa9a000cfcb794",
+    "expertId": "60998",
+    "userId": "27ea9544-5b6d-4a86-ad54-48637716bcca",
+    "comment": "Muy buen asesoramiento, aún tenemos que tomar decisiones, pero hasta ahora todo de diez.",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-06-17 18:44:00",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81224aa9a000e443e75",
+      "userId": "60998",
+      "firstname": "Diego",
+      "lastname": "Rossini",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-89a72592-3855-407d-9184-d0ed7311a2fc-2018-02-07T18:51:39.318878736153172966445076588031f469a34ea18e81abaed794f7.png",
+      "images": {
+        "id": "5a7b4abb24aa9a000b41e89a",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-89a72592-3855-407d-9184-d0ed7311a2fc-2018-02-07T18:51:39.318878736153172966445076588031f469a34ea18e81abaed794f7.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-89a72592-3855-407d-9184-d0ed7311a2fc-2018-02-07T18:51:39.318878736153172966445076588031f469a34ea18e81abaed794f7.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-89a72592-3855-407d-9184-d0ed7311a2fc-2018-02-07T18:51:39.318878736153172966445076588031f469a34ea18e81abaed794f7.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-89a72592-3855-407d-9184-d0ed7311a2fc-2018-02-07T18:51:39.318878736153172966445076588031f469a34ea18e81abaed794f7.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/diego.rossini",
+      "image_id": "5a7b4abb24aa9a000b41e89a",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.784090909090908,
+      "connected": false
+    },
+    "user": {
+      "id": "5b26d60c24aa9a000da5d613",
+      "userId": "27ea9544-5b6d-4a86-ad54-48637716bcca",
+      "firstname": "Carlos Alberto",
+      "lastname": "Arias",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767c24aa9a000cfcb07f",
+    "expertId": "61028",
+    "userId": "fd54722c-fd99-45f7-8681-48ab68787084",
+    "comment": "Excelente atencion. Fui a la sucirsal de etcheverria y me atendio  Mara quien es mu amable, paciente y experta en lo que hace. ",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-06-06 19:06:54",
+    "skillReviews": [
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81624aa9a000e443e7d",
+      "userId": "61028",
+      "firstname": "Mara Vanesa",
+      "lastname": "Araya",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a1ef4b324aa9a000b0d441e-e6152a07-6ea4-471b-aab1-0cff36ec02e1-2018-03-20T14:39:32.993421463106779456616blob.png",
+      "images": {
+        "id": "5ab11d2524aa9a000b49ad65",
+        "original_url": "https://images.almundo.com/ugc/production/5a1ef4b324aa9a000b0d441e-e6152a07-6ea4-471b-aab1-0cff36ec02e1-2018-03-20T14:39:32.993421463106779456616blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a1ef4b324aa9a000b0d441e-e6152a07-6ea4-471b-aab1-0cff36ec02e1-2018-03-20T14:39:32.993421463106779456616blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a1ef4b324aa9a000b0d441e-e6152a07-6ea4-471b-aab1-0cff36ec02e1-2018-03-20T14:39:32.993421463106779456616blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a1ef4b324aa9a000b0d441e-e6152a07-6ea4-471b-aab1-0cff36ec02e1-2018-03-20T14:39:32.993421463106779456616blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/maru.araya",
+      "image_id": "5ab11d2524aa9a000b49ad65",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.754491017964072,
+      "connected": false
+    },
+    "user": {
+      "id": "5b185ae924aa9a000bae17a3",
+      "userId": "fd54722c-fd99-45f7-8681-48ab68787084",
+      "firstname": "Cecilia Pardo Campos",
+      "lastname": "Pardo Campos",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767e24aa9a000cfcb30c",
+    "expertId": "61028",
+    "userId": "251077",
+    "comment": "Mostró paciencia y dedicó tiempo buscando alternativas beneficiosas para mi viaje",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-03-28 13:32:32",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81624aa9a000e443e7d",
+      "userId": "61028",
+      "firstname": "Mara Vanesa",
+      "lastname": "Araya",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a1ef4b324aa9a000b0d441e-e6152a07-6ea4-471b-aab1-0cff36ec02e1-2018-03-20T14:39:32.993421463106779456616blob.png",
+      "images": {
+        "id": "5ab11d2524aa9a000b49ad65",
+        "original_url": "https://images.almundo.com/ugc/production/5a1ef4b324aa9a000b0d441e-e6152a07-6ea4-471b-aab1-0cff36ec02e1-2018-03-20T14:39:32.993421463106779456616blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a1ef4b324aa9a000b0d441e-e6152a07-6ea4-471b-aab1-0cff36ec02e1-2018-03-20T14:39:32.993421463106779456616blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a1ef4b324aa9a000b0d441e-e6152a07-6ea4-471b-aab1-0cff36ec02e1-2018-03-20T14:39:32.993421463106779456616blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a1ef4b324aa9a000b0d441e-e6152a07-6ea4-471b-aab1-0cff36ec02e1-2018-03-20T14:39:32.993421463106779456616blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/maru.araya",
+      "image_id": "5ab11d2524aa9a000b49ad65",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.754491017964072,
+      "connected": false
+    },
+    "user": {
+      "id": "5a787f7224aa9a000d8e9939",
+      "userId": "251077",
+      "firstname": "Consuelo Carmen",
+      "lastname": "Martinez",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767b24aa9a000cfcb01f",
+    "expertId": "61030",
+    "userId": "80ad6049-4670-4d25-8c9b-11f52f2b0e30",
+    "comment": "Me gustó el trato amable, claro y preciso que me brindó Analia Mori. Es mi agente de viajes favorita.",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-05-30 16:45:11",
+    "skillReviews": [
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81724aa9a000df5ea2d",
+      "userId": "61030",
+      "firstname": "Analia",
+      "lastname": "Mori",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-bbe0ccbd-f149-4e6d-9929-98f609b6eee3-2018-02-07T18:51:42.64263518377188388490598170bd35a09df1b432f2dbb54290ef10.png",
+      "images": {
+        "id": "5a7b4abe24aa9a000c1c2372",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-bbe0ccbd-f149-4e6d-9929-98f609b6eee3-2018-02-07T18:51:42.64263518377188388490598170bd35a09df1b432f2dbb54290ef10.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-bbe0ccbd-f149-4e6d-9929-98f609b6eee3-2018-02-07T18:51:42.64263518377188388490598170bd35a09df1b432f2dbb54290ef10.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-bbe0ccbd-f149-4e6d-9929-98f609b6eee3-2018-02-07T18:51:42.64263518377188388490598170bd35a09df1b432f2dbb54290ef10.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-bbe0ccbd-f149-4e6d-9929-98f609b6eee3-2018-02-07T18:51:42.64263518377188388490598170bd35a09df1b432f2dbb54290ef10.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/analia.mori",
+      "image_id": "5a7b4abe24aa9a000c1c2372",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.736526946107782,
+      "connected": false
+    },
+    "user": {
+      "id": "5b0eff3424aa9a000d15cd47",
+      "userId": "80ad6049-4670-4d25-8c9b-11f52f2b0e30",
+      "firstname": "CANDELA CELESTE",
+      "lastname": "DENEZIO",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5b1010e824aa9a000ba81748-ec788a04-047c-4bc0-b742-fff49283c604-2018-05-31T15:12:40.2857352225869318969221_platform_profilepic_.jpg",
+      "images": {
+        "id": "5b1010e824aa9a000ba8174a",
+        "original_url": "https://images.almundo.com/ugc/production/5b1010e824aa9a000ba81748-ec788a04-047c-4bc0-b742-fff49283c604-2018-05-31T15:12:40.2857352225869318969221_platform_profilepic_.jpg",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5b1010e824aa9a000ba81748-ec788a04-047c-4bc0-b742-fff49283c604-2018-05-31T15:12:40.2857352225869318969221_platform_profilepic_.jpg",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5b1010e824aa9a000ba81748-ec788a04-047c-4bc0-b742-fff49283c604-2018-05-31T15:12:40.2857352225869318969221_platform_profilepic_.jpg",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5b1010e824aa9a000ba81748-ec788a04-047c-4bc0-b742-fff49283c604-2018-05-31T15:12:40.2857352225869318969221_platform_profilepic_.jpg",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": null,
+      "image_id": "5b1010e824aa9a000ba8174a",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b6076ff24aa9a000cfcb7fe",
+    "expertId": "61033",
+    "userId": "b8526fd1-6353-4380-a415-4fed7d1f61ad",
+    "comment": "LUGAR COMODO Y ACOGEDOR, ATENCION ESMERADA, EXPERIENCIA EN SU TRABAJO. FELICITACIONES   \n \n",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-06-26 12:14:02",
+    "skillReviews": [
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81724aa9a000e443e7f",
+      "userId": "61033",
+      "firstname": "Gisela",
+      "lastname": "Aguirre",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-e809229b-a010-45cc-a405-79ddc8558cb0-2018-02-07T18:51:43.0732488944784642347650c20efa862754783b3af3a6555ef092e6.png",
+      "images": {
+        "id": "5a7b4abf24aa9a000b41e8a4",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-e809229b-a010-45cc-a405-79ddc8558cb0-2018-02-07T18:51:43.0732488944784642347650c20efa862754783b3af3a6555ef092e6.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-e809229b-a010-45cc-a405-79ddc8558cb0-2018-02-07T18:51:43.0732488944784642347650c20efa862754783b3af3a6555ef092e6.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-e809229b-a010-45cc-a405-79ddc8558cb0-2018-02-07T18:51:43.0732488944784642347650c20efa862754783b3af3a6555ef092e6.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-e809229b-a010-45cc-a405-79ddc8558cb0-2018-02-07T18:51:43.0732488944784642347650c20efa862754783b3af3a6555ef092e6.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/gisela.aguirre",
+      "image_id": "5a7b4abf24aa9a000b41e8a4",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.712962962962963,
+      "connected": false
+    },
+    "user": {
+      "id": "5b32582524aa9a000ce21a65",
+      "userId": "b8526fd1-6353-4380-a415-4fed7d1f61ad",
+      "firstname": "HECTOR LUIS",
+      "lastname": "ZERBINO",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60778824aa9a000cfcc185",
+    "expertId": "61040",
+    "userId": "6a33ba50-bc80-4071-8025-dcc2ea09f43c",
+    "comment": "Por qué siempre encuentro la solución al viaje que quiero hacer. Con el mejor precio.",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-03-19 18:27:29",
+    "skillReviews": [
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81824aa9a000e443e81",
+      "userId": "61040",
+      "firstname": "Cynthia",
+      "lastname": "Rutherford",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-328a05b2-fc0f-4cbe-bb41-560198beb698-2018-02-07T18:51:43.52719709159548630210564d070a2db101288cb0e3872603ae93a.png",
+      "images": {
+        "id": "5a7b4abf24aa9a000b41e8a5",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-328a05b2-fc0f-4cbe-bb41-560198beb698-2018-02-07T18:51:43.52719709159548630210564d070a2db101288cb0e3872603ae93a.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-328a05b2-fc0f-4cbe-bb41-560198beb698-2018-02-07T18:51:43.52719709159548630210564d070a2db101288cb0e3872603ae93a.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-328a05b2-fc0f-4cbe-bb41-560198beb698-2018-02-07T18:51:43.52719709159548630210564d070a2db101288cb0e3872603ae93a.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-328a05b2-fc0f-4cbe-bb41-560198beb698-2018-02-07T18:51:43.52719709159548630210564d070a2db101288cb0e3872603ae93a.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/cynthia.rutherford",
+      "image_id": "5a7b4abf24aa9a000b41e8a5",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.690909090909089,
+      "connected": false
+    },
+    "user": {
+      "id": "5a78965a24aa9a000d92bece",
+      "userId": "6a33ba50-bc80-4071-8025-dcc2ea09f43c",
+      "firstname": "RAQUEL INES",
+      "lastname": "BAEZ",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b6076fe24aa9a000cfcb7a8",
+    "expertId": "62697",
+    "userId": "539809",
+    "comment": "Por el trato y la amabilidad.por lo menos en la agencia que voy yo.en mar del.plata.falucho y guemes",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-04-28 13:09:16",
+    "skillReviews": [
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81e24aa9a000e443e8e",
+      "userId": "62697",
+      "firstname": "Guillermina",
+      "lastname": "Martin",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-329de38a-b05f-4025-84c3-9058df8ea9f2-2018-02-07T18:51:50.15357196841994213161670a751629c913bf7fb0b831d921d8fb63.png",
+      "images": {
+        "id": "5a7b4ac624aa9a000b41e8b2",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-329de38a-b05f-4025-84c3-9058df8ea9f2-2018-02-07T18:51:50.15357196841994213161670a751629c913bf7fb0b831d921d8fb63.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-329de38a-b05f-4025-84c3-9058df8ea9f2-2018-02-07T18:51:50.15357196841994213161670a751629c913bf7fb0b831d921d8fb63.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-329de38a-b05f-4025-84c3-9058df8ea9f2-2018-02-07T18:51:50.15357196841994213161670a751629c913bf7fb0b831d921d8fb63.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-329de38a-b05f-4025-84c3-9058df8ea9f2-2018-02-07T18:51:50.15357196841994213161670a751629c913bf7fb0b831d921d8fb63.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/guillermina.martin",
+      "image_id": "5a7b4ac624aa9a000b41e8b2",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.711678832116785,
+      "connected": false
+    },
+    "user": {
+      "id": "5a788aed24aa9a000d90b1bc",
+      "userId": "539809",
+      "firstname": "emmanuel",
+      "lastname": "pizzi",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767d24aa9a000cfcb130",
+    "expertId": "62731",
+    "userId": "4a2ec057-1b66-4c46-8278-631903eb5afa",
+    "comment": "Normalmente no contesto encuestas; pero la atencion de la agente M. Amelia Quezada fue expectacular!! Gracias Amelia!!",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-05-23 18:02:35",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81f24aa9a000e443e91",
+      "userId": "62731",
+      "firstname": "María Amelia",
+      "lastname": "Quesada",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+      "images": {
+        "id": "5ae3a20024aa9a000b1d2c19",
+        "original_url": "https://images.almundo.com/ugc/production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/maria.quesada",
+      "image_id": "5ae3a20024aa9a000b1d2c19",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.69950738916256,
+      "connected": false
+    },
+    "user": {
+      "id": "5b05d6d824aa9a000b9e166f",
+      "userId": "4a2ec057-1b66-4c46-8278-631903eb5afa",
+      "firstname": "ADRIAN",
+      "lastname": "VILLARREAL",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767d24aa9a000cfcb25e",
+    "expertId": "62731",
+    "userId": "34746",
+    "comment": "Me atendió una Srta llamada Amelia Quesada de Lomas de Zamora , excelente atención y servicio .",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-05-31 12:57:50",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81f24aa9a000e443e91",
+      "userId": "62731",
+      "firstname": "María Amelia",
+      "lastname": "Quesada",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+      "images": {
+        "id": "5ae3a20024aa9a000b1d2c19",
+        "original_url": "https://images.almundo.com/ugc/production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/maria.quesada",
+      "image_id": "5ae3a20024aa9a000b1d2c19",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.69950738916256,
+      "connected": false
+    },
+    "user": {
+      "id": "5a787ac424aa9a000d8d06ff",
+      "userId": "34746",
+      "firstname": "RAUL ALBERTO",
+      "lastname": "BOLLETTA COTELO",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1136617,
+        "name": "Uruguay",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767f24aa9a000cfcb56c",
+    "expertId": "62731",
+    "userId": "34d94b58-f277-4871-acae-c56b535f39d8",
+    "comment": "No tuve que esperar mucho tiempo, Amalia fue muy atenta y paciente con mis dudas!!",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-03-23 13:36:17",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81f24aa9a000e443e91",
+      "userId": "62731",
+      "firstname": "María Amelia",
+      "lastname": "Quesada",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+      "images": {
+        "id": "5ae3a20024aa9a000b1d2c19",
+        "original_url": "https://images.almundo.com/ugc/production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a1db25024aa9a000b0d4303-78535801-854a-4463-89e2-55f6f3a92b25-2018-04-27T22:19:44.0371807899817806665133blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/maria.quesada",
+      "image_id": "5ae3a20024aa9a000b1d2c19",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.69950738916256,
+      "connected": false
+    },
+    "user": {
+      "id": "5ab52cfc24aa9a000d0e23c0",
+      "userId": "34d94b58-f277-4871-acae-c56b535f39d8",
+      "firstname": "ALICIA SUSANA",
+      "lastname": "BENITO",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767e24aa9a000cfcb34a",
+    "expertId": "62733",
+    "userId": "383459",
+    "comment": "Ya había usado los servicios de Uds. Por ello volví con Uds. Muy bien atendido. Gracias",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-04-17 13:08:06",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e81f24aa9a000df5ea3c",
+      "userId": "62733",
+      "firstname": "Romina",
+      "lastname": "Gamberini",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-b15e955b-9f69-481c-8a00-22276b140d84-2018-02-07T18:51:51.11165054001813623425e4ff7b2a4c7252b3e77ab42d9de9338e.png",
+      "images": {
+        "id": "5a7b4ac724aa9a000c1c2383",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-b15e955b-9f69-481c-8a00-22276b140d84-2018-02-07T18:51:51.11165054001813623425e4ff7b2a4c7252b3e77ab42d9de9338e.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-b15e955b-9f69-481c-8a00-22276b140d84-2018-02-07T18:51:51.11165054001813623425e4ff7b2a4c7252b3e77ab42d9de9338e.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-b15e955b-9f69-481c-8a00-22276b140d84-2018-02-07T18:51:51.11165054001813623425e4ff7b2a4c7252b3e77ab42d9de9338e.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-b15e955b-9f69-481c-8a00-22276b140d84-2018-02-07T18:51:51.11165054001813623425e4ff7b2a4c7252b3e77ab42d9de9338e.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/romina.gamberini",
+      "image_id": "5a7b4ac724aa9a000c1c2383",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.731249999999999,
+      "connected": false
+    },
+    "user": {
+      "id": "5a78841024aa9a000b4519b1",
+      "userId": "383459",
+      "firstname": "Manuel",
+      "lastname": "Dominguez",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767f24aa9a000cfcb5a3",
+    "expertId": "63184",
+    "userId": "784c425a-804b-4584-aa0d-ace626b9c46a",
+    "comment": "Conseguí buen precio en el vuelo q quería me atendieron rápido y me explicaron todo muchas gracias por el servicio brindado",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-03-27 11:15:59",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e82024aa9a000e443e93",
+      "userId": "63184",
+      "firstname": "Ivana",
+      "lastname": "Nine",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+      "images": {
+        "id": "5a7b4ac824aa9a000c1c2386",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/ivana.nine",
+      "image_id": "5a7b4ac824aa9a000c1c2386",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.687499999999999,
+      "connected": false
+    },
+    "user": {
+      "id": "5aba520d24aa9a000d0d25e8",
+      "userId": "784c425a-804b-4584-aa0d-ace626b9c46a",
+      "firstname": "javier roberto",
+      "lastname": "zarza",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60770024aa9a000cfcbb52",
+    "expertId": "63184",
+    "userId": "0452d999-f160-4c6f-bb77-01a2724679db",
+    "comment": "La buena predisposición y amabilidad sincera y desinteresada de  Ivana de paseo Pilar. ",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-07-28 10:54:42",
+    "skillReviews": [
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e82024aa9a000e443e93",
+      "userId": "63184",
+      "firstname": "Ivana",
+      "lastname": "Nine",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+      "images": {
+        "id": "5a7b4ac824aa9a000c1c2386",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/ivana.nine",
+      "image_id": "5a7b4ac824aa9a000c1c2386",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.687499999999999,
+      "connected": false
+    },
+    "user": {
+      "id": "5b5c758d24aa9a000bac9227",
+      "userId": "0452d999-f160-4c6f-bb77-01a2724679db",
+      "firstname": "beatriz edith",
+      "lastname": "buratti",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60778824aa9a000cfcc1d6",
+    "expertId": "63184",
+    "userId": "23d7763b-7ac8-491d-aab8-276a96304a48",
+    "comment": "Tener opciones para guiar en la compra de pasajes en tren por Europa y tickets para Museos",
+    "score": 4.75,
+    "recommendationScore": 8,
+    "creationDate": "2018-03-28 10:28:01",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 4
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79e82024aa9a000e443e93",
+      "userId": "63184",
+      "firstname": "Ivana",
+      "lastname": "Nine",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+      "images": {
+        "id": "5a7b4ac824aa9a000c1c2386",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-7cbf3f75-e4d2-45ef-9b63-e0a746dce88d-2018-02-07T18:51:52.1614342142614800078149caede914ff112841cfa9978ed9b08181.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/ivana.nine",
+      "image_id": "5a7b4ac824aa9a000c1c2386",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.687499999999999,
+      "connected": false
+    },
+    "user": {
+      "id": "5abb984c24aa9a000d828faf",
+      "userId": "23d7763b-7ac8-491d-aab8-276a96304a48",
+      "firstname": "maria cecilia",
+      "lastname": "cabot",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767c24aa9a000cfcb107",
+    "expertId": "958f0e42-770b-423b-850a-906f966f8968",
+    "userId": "72810904-0eb1-4f3f-9b79-b6722fafa36b",
+    "comment": "Claridez, buena atención y predisposición por parte del experto. Excelente atención!!!",
+    "score": 5,
+    "recommendationScore": 9,
+    "creationDate": "2018-04-23 19:24:38",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79f39424aa9a000e4450c8",
+      "userId": "958f0e42-770b-423b-850a-906f966f8968",
+      "firstname": "Leonel",
+      "lastname": "Marhaba",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a1dd38c24aa9a000d86b4d4-29bf4ad2-14dc-42c1-b827-5ef5037314c6-2018-06-13T15:38:28.3724857935573516003502blob.png",
+      "images": {
+        "id": "5b213a7424aa9a000c61355c",
+        "original_url": "https://images.almundo.com/ugc/production/5a1dd38c24aa9a000d86b4d4-29bf4ad2-14dc-42c1-b827-5ef5037314c6-2018-06-13T15:38:28.3724857935573516003502blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a1dd38c24aa9a000d86b4d4-29bf4ad2-14dc-42c1-b827-5ef5037314c6-2018-06-13T15:38:28.3724857935573516003502blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a1dd38c24aa9a000d86b4d4-29bf4ad2-14dc-42c1-b827-5ef5037314c6-2018-06-13T15:38:28.3724857935573516003502blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a1dd38c24aa9a000d86b4d4-29bf4ad2-14dc-42c1-b827-5ef5037314c6-2018-06-13T15:38:28.3724857935573516003502blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/leonel.marhaba",
+      "image_id": "5b213a7424aa9a000c61355c",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.691780821917809,
+      "connected": false
+    },
+    "user": {
+      "id": "5ade5d0c24aa9a000d0da45d",
+      "userId": "72810904-0eb1-4f3f-9b79-b6722fafa36b",
+      "firstname": "MARIA BELEN",
+      "lastname": "FERREYRA",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767f24aa9a000cfcb53f",
+    "expertId": "958f0e42-770b-423b-850a-906f966f8968",
+    "userId": "8f238f88-ca9c-4edb-94eb-478bec28da4b",
+    "comment": "Muy buena predisposición, muy buena atención y también las recomendaciones que nos dio.",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-05-06 19:44:16",
+    "skillReviews": [
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79f39424aa9a000e4450c8",
+      "userId": "958f0e42-770b-423b-850a-906f966f8968",
+      "firstname": "Leonel",
+      "lastname": "Marhaba",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a1dd38c24aa9a000d86b4d4-29bf4ad2-14dc-42c1-b827-5ef5037314c6-2018-06-13T15:38:28.3724857935573516003502blob.png",
+      "images": {
+        "id": "5b213a7424aa9a000c61355c",
+        "original_url": "https://images.almundo.com/ugc/production/5a1dd38c24aa9a000d86b4d4-29bf4ad2-14dc-42c1-b827-5ef5037314c6-2018-06-13T15:38:28.3724857935573516003502blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a1dd38c24aa9a000d86b4d4-29bf4ad2-14dc-42c1-b827-5ef5037314c6-2018-06-13T15:38:28.3724857935573516003502blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a1dd38c24aa9a000d86b4d4-29bf4ad2-14dc-42c1-b827-5ef5037314c6-2018-06-13T15:38:28.3724857935573516003502blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a1dd38c24aa9a000d86b4d4-29bf4ad2-14dc-42c1-b827-5ef5037314c6-2018-06-13T15:38:28.3724857935573516003502blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/leonel.marhaba",
+      "image_id": "5b213a7424aa9a000c61355c",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.691780821917809,
+      "connected": false
+    },
+    "user": {
+      "id": "5aef852d24aa9a000d0dd1bc",
+      "userId": "8f238f88-ca9c-4edb-94eb-478bec28da4b",
+      "firstname": "ROMINA CECILIA",
+      "lastname": "MUÑOZ",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767b24aa9a000cfcb007",
+    "expertId": "d8710742-f53f-4c8d-859b-c01e21e1d47a",
+    "userId": "50a640df-59d8-4570-9d5c-a6f7db91474e",
+    "comment": "El poder tomar una decisión y estar en contacto directo con el asesor. No a través del teléfono y/o la página Web. ",
+    "score": 4.75,
+    "recommendationScore": 9,
+    "creationDate": "2018-04-10 16:14:09",
+    "skillReviews": [
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 4
+      }
+    ],
+    "expert": {
+      "id": "5a79f38624aa9a000df5fc38",
+      "userId": "d8710742-f53f-4c8d-859b-c01e21e1d47a",
+      "firstname": "Guillermo",
+      "lastname": "Gamboa",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-67048dcc-316d-4b52-8034-4b924d3a3144-2018-02-07T20:56:32.36378861774249852492645386276491aa334fca193249d290f8b6.png",
+      "images": {
+        "id": "5a7b680024aa9a000b41fa70",
+        "original_url": "https://images.almundo.com/ugc/production/5a04a91024aa9a000c5c9fa0-67048dcc-316d-4b52-8034-4b924d3a3144-2018-02-07T20:56:32.36378861774249852492645386276491aa334fca193249d290f8b6.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a04a91024aa9a000c5c9fa0-67048dcc-316d-4b52-8034-4b924d3a3144-2018-02-07T20:56:32.36378861774249852492645386276491aa334fca193249d290f8b6.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a04a91024aa9a000c5c9fa0-67048dcc-316d-4b52-8034-4b924d3a3144-2018-02-07T20:56:32.36378861774249852492645386276491aa334fca193249d290f8b6.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a04a91024aa9a000c5c9fa0-67048dcc-316d-4b52-8034-4b924d3a3144-2018-02-07T20:56:32.36378861774249852492645386276491aa334fca193249d290f8b6.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/guillegamboa",
+      "image_id": "5a7b680024aa9a000b41fa70",
+      "nationality": null,
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.676724137931034,
+      "connected": false
+    },
+    "user": {
+      "id": "5a7892a724aa9a000b4755e1",
+      "userId": "50a640df-59d8-4570-9d5c-a6f7db91474e",
+      "firstname": "ALDO ROBERTO",
+      "lastname": "DAGOSTINO",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767c24aa9a000cfcb066",
+    "expertId": "ec4248b2-5772-4f7b-88f2-cfceac3a85b7",
+    "userId": "4f4e89b2-9858-4b22-8ac8-d6f28f1b7ea2",
+    "comment": "Me atendió una Sta Renzzi, y la verdad que estaba muy informada y me tuvo paciencia ya que pague on tres tarjetas.",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-06-01 20:34:26",
+    "skillReviews": [
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79f1e824aa9a000e444dff",
+      "userId": "ec4248b2-5772-4f7b-88f2-cfceac3a85b7",
+      "firstname": "Camila",
+      "lastname": "Renzi",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a1e0a2624aa9a000d86b4fb-e93ef0fb-e913-4f9a-ab8a-ea4555025ecf-2018-09-05T21:16:30.7858320317800818635150blob.png",
+      "images": {
+        "id": "5b9047ae24aa9a000bac7233",
+        "original_url": "https://images.almundo.com/ugc/production/5a1e0a2624aa9a000d86b4fb-e93ef0fb-e913-4f9a-ab8a-ea4555025ecf-2018-09-05T21:16:30.7858320317800818635150blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a1e0a2624aa9a000d86b4fb-e93ef0fb-e913-4f9a-ab8a-ea4555025ecf-2018-09-05T21:16:30.7858320317800818635150blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a1e0a2624aa9a000d86b4fb-e93ef0fb-e913-4f9a-ab8a-ea4555025ecf-2018-09-05T21:16:30.7858320317800818635150blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a1e0a2624aa9a000d86b4fb-e93ef0fb-e913-4f9a-ab8a-ea4555025ecf-2018-09-05T21:16:30.7858320317800818635150blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/camila.renzi",
+      "image_id": "5b9047ae24aa9a000bac7233",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.726666666666667,
+      "connected": false
+    },
+    "user": {
+      "id": "5b11d7d224aa9a000d0873b9",
+      "userId": "4f4e89b2-9858-4b22-8ac8-d6f28f1b7ea2",
+      "firstname": "CRISTIAN MARTIN",
+      "lastname": "AGOSTINI",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  },
+  {
+    "id": "5b60767e24aa9a000cfcb278",
+    "expertId": "ec4248b2-5772-4f7b-88f2-cfceac3a85b7",
+    "userId": "4f4e89b2-9858-4b22-8ac8-d6f28f1b7ea2",
+    "comment": "Me atendió una Sta Renzzi, y la verdad que estaba muy informada y me tuvo paciencia ya que pague on tres tarjetas.",
+    "score": 5,
+    "recommendationScore": 10,
+    "creationDate": "2018-06-01 20:33:56",
+    "skillReviews": [
+      {
+        "softSkill": "KIND",
+        "score": 5
+      },
+      {
+        "softSkill": "KNOWLEDGE",
+        "score": 5
+      },
+      {
+        "softSkill": "COMMUNICATION",
+        "score": 5
+      },
+      {
+        "softSkill": "PRECISE_TO_INFORM",
+        "score": 5
+      }
+    ],
+    "expert": {
+      "id": "5a79f1e824aa9a000e444dff",
+      "userId": "ec4248b2-5772-4f7b-88f2-cfceac3a85b7",
+      "firstname": "Camila",
+      "lastname": "Renzi",
+      "image": "https://images.almundo.com/ugc-resized/100_production/5a1e0a2624aa9a000d86b4fb-e93ef0fb-e913-4f9a-ab8a-ea4555025ecf-2018-09-05T21:16:30.7858320317800818635150blob.png",
+      "images": {
+        "id": "5b9047ae24aa9a000bac7233",
+        "original_url": "https://images.almundo.com/ugc/production/5a1e0a2624aa9a000d86b4fb-e93ef0fb-e913-4f9a-ab8a-ea4555025ecf-2018-09-05T21:16:30.7858320317800818635150blob.png",
+        "square90_url": null,
+        "thumbnail100_url": "https://images.almundo.com/ugc-resized/100_production/5a1e0a2624aa9a000d86b4fb-e93ef0fb-e913-4f9a-ab8a-ea4555025ecf-2018-09-05T21:16:30.7858320317800818635150blob.png",
+        "mobile320_url": "https://images.almundo.com/ugc-resized/320_production/5a1e0a2624aa9a000d86b4fb-e93ef0fb-e913-4f9a-ab8a-ea4555025ecf-2018-09-05T21:16:30.7858320317800818635150blob.png",
+        "normal640_url": "https://images.almundo.com/ugc-resized/640_production/5a1e0a2624aa9a000d86b4fb-e93ef0fb-e913-4f9a-ab8a-ea4555025ecf-2018-09-05T21:16:30.7858320317800818635150blob.png",
+        "crop_url4x5": null,
+        "thumbnail4x5_crop100_url": null,
+        "mobile4x5_crop320_url": null,
+        "normal4x5_crop640_url": null,
+        "crop_bounds": null
+      },
+      "profile_url": "/profiles/camila.renzi",
+      "image_id": "5b9047ae24aa9a000bac7233",
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 4.726666666666667,
+      "connected": false
+    },
+    "user": {
+      "id": "5b11d7d224aa9a000d0873b9",
+      "userId": "4f4e89b2-9858-4b22-8ac8-d6f28f1b7ea2",
+      "firstname": "CRISTIAN MARTIN",
+      "lastname": "AGOSTINI",
+      "image": null,
+      "images": null,
+      "profile_url": null,
+      "image_id": null,
+      "nationality": {
+        "id": 1123215,
+        "name": "Argentina",
+        "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+      },
+      "city": null,
+      "skills": null,
+      "tags": null,
+      "known_cities": null,
+      "rating": 0,
+      "connected": false
+    }
+  }
+]
